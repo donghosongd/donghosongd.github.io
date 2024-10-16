@@ -258,4 +258,4 @@ a:hover {
         <em>Journal of Business and Economic Statistics</em>, 2015, Volume 33, Issue 3, pp. 366-380 
     </li>
 </ol>
-![image](https://github.com/user-attachments/assets/6ef5b79b-ea06-413f-b486-5854f53eaa21)
+
