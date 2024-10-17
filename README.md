@@ -153,7 +153,6 @@ a:hover {
     <div class="image-crop" style="flex-shrink: 0;">
         <!-- Adjust image size -->
         <img src="https://raw.githubusercontent.com/donghosongd/donghosongd.github.io/main/dsong.jpg" alt="Dongho Song" style="width: 250px; max-width: 100%; height: auto;">
-        
     </div>
 </div>
 
