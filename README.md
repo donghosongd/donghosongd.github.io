@@ -1,51 +1,47 @@
 <head>
-
-    <!-- Default Statcounter code for Dong webpage
-http://donghosong.com -->
-<script type="text/javascript">
-var sc_project=13047391; 
-var sc_invisible=1; 
-var sc_security="344fc969"; 
-</script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js"
-async></script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="https://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="https://c.statcounter.com/13047391/0/344fc969/1/"
-alt="Web Analytics"
-referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-<!-- End of Statcounter Code -->
+    <!-- Default Statcounter code for Dong webpage http://donghosong.com -->
+    <script type="text/javascript">
+        var sc_project = 13047391; 
+        var sc_invisible = 1; 
+        var sc_security = "344fc969"; 
+    </script>
+    <script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>
+    <noscript>
+        <div class="statcounter">
+            <a title="Web Analytics" href="https://statcounter.com/" target="_blank">
+                <img class="statcounter" src="https://c.statcounter.com/13047391/0/344fc969/1/" alt="Web Analytics">
+            </a>
+        </div>
+    </noscript>
+    <!-- End of Statcounter Code -->
 
     <!-- Importing Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
 
     <style>
-
         body {
             font-family: 'Roboto', sans-serif;
-            font-weight: 300; /* Use a light font for body text */
+            font-weight: 300;
             color: #333;
             margin: 20px;
             line-height: 1.8;
         }
 
-h1 {   
-    font-family: 'Lora', serif; /* Modern serif font Lora */
-    font-size: 1.5em; /* Adjust the size */
-    font-weight: 400; /* Regular weight */
-    color: #2c3e50;
-    margin-bottom: 10px;
-}
+        h1 {   
+            font-family: 'Lora', serif;
+            font-size: 1.5em;
+            font-weight: 400;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
 
-h2 {   
-    font-family: 'Lora', serif; /* Lora for h2 */
-    font-size: 20px;
-    font-weight: 400; /* Regular weight */
-    color: #2c3e50;
-    margin-bottom: 10px;
-}
+        h2 {   
+            font-family: 'Lora', serif;
+            font-size: 20px;
+            font-weight: 400;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
 
         hr {
             border: 0;
@@ -53,32 +49,31 @@ h2 {
             margin: 20px 0;
         }
 
-        /* Remove left spacing for ordered lists */
         ol {
             font-size: 18px;
             line-height: 1.8;
-            margin-left: 0; /* Remove left margin */
-            padding-left: 0; /* Remove left padding */
+            margin-left: 0;
+            padding-left: 0;
             color: #4d4d4d;
         }
 
-a {
-    text-decoration: none;
-    color: #007c91; /* Ocean blue-teal */
-    transition: color 0.3s ease;
-}
+        a {
+            text-decoration: none;
+            color: #007c91;
+            transition: color 0.3s ease;
+        }
 
-a:hover {
-    color: #006672; /* Darker ocean teal on hover */
-}
+        a:hover {
+            color: #006672;
+        }
 
         section {
             margin-bottom: 40px;
         }
 
         .container {
-            max-width: 1200px; /* Increase the maximum width */
-            margin: 0 auto; /* Center the content */
+            max-width: 1200px;
+            margin: 0 auto;
             padding: 30px;
             border-radius: 8px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
@@ -88,64 +83,57 @@ a:hover {
             margin-bottom: 15px;
         }
 
-        /* Flexbox for responsive layout */
         .flex-container {
             display: flex;
-            flex-wrap: nowrap; /* Ensure items don't wrap */
-            align-items: flex-start; /* Align items to the top */
+            flex-wrap: nowrap;
+            align-items: flex-start;
             overflow: hidden;
         }
 
         .content {
             flex: 1;
             min-width: 250px;
-            margin-left: 30px; /* Add margin to push content right */
-            margin-top: 0; /* Remove extra spacing at the top */
+            margin-left: 30px;
+            margin-top: 0;
         }
 
         .content p {
-            margin-top: 0; /* Remove margin above paragraph */
-            padding-top: 0; /* Remove padding above paragraph */
+            margin-top: 0;
+            padding-top: 0;
         }
 
-        /* Desktop view: Ensure text is left-aligned */
         div[style*="flex: 1;"] p {
-            text-align: left; /* Left-align text on desktop */
+            text-align: left;
         }
 
-        /* Add spacing between text and image */
         .image-crop {
-            margin-left: 20px; /* Add spacing between text and image */
+            margin-left: 20px;
         }
 
-        /* Override the color for Dongho Song */
         h1 a {
-            color: #2c3e50; /* Ensure link color is the same as normal text */
+            color: #2c3e50;
         }
 
-        /* Responsive design for mobile */
         @media (max-width: 768px) {
             .image-crop {
                 margin-left: 0;
-                margin-top: 20px; /* Add spacing above the image on mobile */
-                width: 100%; /* Ensure image fills the width properly on mobile */
+                margin-top: 20px;
+                width: 100%;
             }
 
-            /* Make the layout vertical on smaller screens */
             div[style*="display: flex;"] {
                 flex-direction: column;
                 align-items: center;
             }
 
-            /* Ensure text is centered on mobile */
             div[style*="flex: 1;"] p {
-                text-align: center; /* Center-align text on mobile */
+                text-align: center;
             }
         }
 
         .custom-link {
-    color: #333; /* Change to your desired color */
-}
+            color: #333;
+        }
     </style>
 </head>
 
@@ -157,24 +145,13 @@ a:hover {
             Carey Business School<br>
         </p>
         <p style="margin-top: 20px; font-size: 1.2em; text-align: left;">
-            <!-- Email first -->
-            <a href="mailto:dongho.song@jhu.edu">
-                dongho.song@jhu.edu
-            </a>
-            <br>
-            <!-- CV link second -->
-            <a href="https://www.dropbox.com/scl/fi/24w0wsai88q1725l73xho/DonghoSong-CV.pdf?rlkey=vfe2hbq6pua4apthvi3whmtwy&st=bf0i2ug0&dl=0" target="_blank">
-                <i class="fas fa-envelope"></i> CV
-            </a>
+            <a href="mailto:dongho.song@jhu.edu">dongho.song@jhu.edu</a><br>
+            <a href="https://www.dropbox.com/scl/fi/24w0wsai88q1725l73xho/DonghoSong-CV.pdf?rlkey=vfe2hbq6pua4apthvi3whmtwy&st=bf0i2ug0&dl=0" target="_blank">CV</a>
             &nbsp;|&nbsp;
-            <!-- Google Scholar link third -->
-            <a href="https://scholar.google.com/citations?user=z9TGeXYAAAAJ&hl=en" target="_blank">
-                <i class="fas fa-graduation-cap"></i> Google Scholar
-            </a>
+            <a href="https://scholar.google.com/citations?user=z9TGeXYAAAAJ&hl=en" target="_blank">Google Scholar</a>
         </p>
     </div>
     <div class="image-crop" style="flex-shrink: 0;">
-        <!-- Adjust image size -->
         <img src="https://raw.githubusercontent.com/donghosongd/donghosongd.github.io/main/dsong.jpg" alt="Dongho Song" style="width: 250px; max-width: 100%; height: auto;">
     </div>
 </div>
