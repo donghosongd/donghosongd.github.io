@@ -125,7 +125,7 @@ a:hover {
         }
 
         .custom-link {
-    color: black; /* Change to your desired color */
+    color: #333; /* Change to your desired color */
 }
     </style>
 </head>
