@@ -167,9 +167,9 @@ a:hover {
 <a href="https://www.dropbox.com/scl/fi/4w9etfnrgrrnqvw48odaw/Fragmentation.pdf?rlkey=daw0sywgctbqy1olip9cd14ox&st=z89i156x&dl=0" target="_blank" rel="noopener noreferrer">
     Are We Fragmented Yet? Measuring Geopolitical Fragmentation and Its Causal Effects
 </a>, with Jesús Fernández-Villaverde and Tomohide Mineyama, 2024 &nbsp;  
-    [<a href="https://www.dropbox.com/scl/fi/he6faychjg86negnepcg8/fragmentation-index.xlsx?rlkey=fkzmpg116sq5qtb9gvbqccoq4&st=thj6pxxr&dl=0" target="_blank" rel="noopener noreferrer">
-    Geopolitical Fragmentation Index
-</a>]
+    <a href="https://www.dropbox.com/scl/fi/he6faychjg86negnepcg8/fragmentation-index.xlsx?rlkey=fkzmpg116sq5qtb9gvbqccoq4&st=thj6pxxr&dl=0" target="_blank" rel="noopener noreferrer">
+    [Geopolitical Fragmentation Index]
+</a>
     </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=fbthgd5r&dl=0" target="_blank" rel="noopener noreferrer">Inflation and Real Activity over the Business Cycle</a>, 
