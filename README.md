@@ -1,4 +1,23 @@
 <head>
+
+    <!-- Default Statcounter code for Dong webpage
+http://donghosong.com -->
+<script type="text/javascript">
+var sc_project=13047391; 
+var sc_invisible=1; 
+var sc_security="344fc969"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/13047391/0/344fc969/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
+
     <!-- Importing Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&family=Roboto:wght@300;400&display=swap" rel="stylesheet">
 
