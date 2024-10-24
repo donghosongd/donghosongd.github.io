@@ -162,7 +162,7 @@
 <ol>
     <li>
         <a href="https://www.dropbox.com/scl/fi/14kf1flu3lksa9nr8vcg8/election_draft_es.pdf?rlkey=8auvohvc3d7gfd3a7015k3kxd&st=t4n9obu5&dl=0" target="_blank" rel="noopener noreferrer">The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>, 
-        with Vadim Elenev, 2024
+        with Mikhail Chernov and Vadim Elenev, 2024
     </li>
     <li>
 <a href="https://www.dropbox.com/scl/fi/4w9etfnrgrrnqvw48odaw/Fragmentation.pdf?rlkey=daw0sywgctbqy1olip9cd14ox&st=z89i156x&dl=0" target="_blank" rel="noopener noreferrer">
