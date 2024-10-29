@@ -159,9 +159,10 @@
 <h2>Working Papers</h2>
 
 
+
 <ol>
     <li>
-        <a href="https://www.dropbox.com/scl/fi/14kf1flu3lksa9nr8vcg8/election_draft_es.pdf?rlkey=8auvohvc3d7gfd3a7015k3kxd&st=t4n9obu5&dl=0" target="_blank" rel="noopener noreferrer">The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>, 
+        <a href="https://www.dropbox.com/scl/fi/54zyce2sq10echnj9tcrv/election_draft_es.pdf?rlkey=qgsotc870qtr378divet4alvn&st=raria12e&dl=0" target="_blank" rel="noopener noreferrer">The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>, 
         with Mikhail Chernov and Vadim Elenev, 2024
     </li>
     <li>
