@@ -163,7 +163,8 @@
 <ol>
     <li>
         <a href="https://www.dropbox.com/scl/fi/54zyce2sq10echnj9tcrv/election_draft_es.pdf?rlkey=qgsotc870qtr378divet4alvn&st=raria12e&dl=0" target="_blank" rel="noopener noreferrer">The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>, 
-        with Mikhail Chernov and Vadim Elenev, 2024
+        <a href="https://anderson-review.ucla.edu/prediction-markets-polls-economic-indicators-better-election-forecasting" target="_blank" rel="noopener noreferrer" class="custom-link">
+    [Anderson Review]</a>, with Mikhail Chernov and Vadim Elenev, 2024
     </li>
     <li>
 <a href="https://www.dropbox.com/scl/fi/4w9etfnrgrrnqvw48odaw/Fragmentation.pdf?rlkey=daw0sywgctbqy1olip9cd14ox&st=z89i156x&dl=0" target="_blank" rel="noopener noreferrer">
