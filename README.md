@@ -162,7 +162,7 @@
 
 <ol>
     <li>
-        <a href="https://www.dropbox.com/scl/fi/54zyce2sq10echnj9tcrv/election_draft_es.pdf?rlkey=qgsotc870qtr378divet4alvn&st=raria12e&dl=0" target="_blank" rel="noopener noreferrer">The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>, 
+        <a href="https://www.dropbox.com/scl/fi/ptmzdrwvncqyzhggnjrgg/election_draft_es.pdf?rlkey=jtrkq8ehajkb9zqrdwvvd4ow7&st=r20m49nz&dl=0" target="_blank" rel="noopener noreferrer">The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>, 
         <a href="https://anderson-review.ucla.edu/prediction-markets-polls-economic-indicators-better-election-forecasting" target="_blank" rel="noopener noreferrer" class="custom-link">
     [Anderson Review]</a>, with Mikhail Chernov and Vadim Elenev, 2024
     </li>
