@@ -179,8 +179,8 @@
         <br>(<em>Review of Economic Studies</em>, R&R)
     </li>
     <li>
-        <a href="https://www.dropbox.com/scl/fi/08waf5zhfg8iagvuo9jxw/CLS_COV_latest.pdf?rlkey=sl6tkvktg9aq3hkfgicjcr6ef&st=4s91sp41&dl=0" target="_blank" rel="noopener noreferrer">The Real Channel for Nominal Bond-Stock Puzzles</a>, 
-        with Mikhail Chernov and Lars Lochstoer, 2023
+        <a href="https://www.dropbox.com/scl/fi/1063p13kd0dw4oxzh99m4/CLS-latest.pdf?rlkey=bu8nrms7qdoggoiwefabdhbse&st=5cd2z5qr&dl=0" target="_blank" rel="noopener noreferrer">The Real Channel for Nominal Bond-Stock Puzzles</a>, 
+        with Mikhail Chernov and Lars Lochstoer, 2025
         <br>(<em>Journal of Finance</em>, R&R)
     </li>
     <li>
