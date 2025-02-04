@@ -171,7 +171,7 @@
     Are We Fragmented Yet? Measuring Geopolitical Fragmentation and Its Causal Effects</a>, 
 <a href="https://www.dropbox.com/scl/fi/he6faychjg86negnepcg8/fragmentation-index.xlsx?rlkey=fkzmpg116sq5qtb9gvbqccoq4&st=thj6pxxr&dl=0" target="_blank" rel="noopener noreferrer" class="custom-link">
     [Geopolitical Fragmentation Index]</a>,    
-        with Jesús Fernández-Villaverde and Tomohide Mineyama, 2024
+        with Jesús Fernández-Villaverde and Tomohide Mineyama, 2025
     </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=fbthgd5r&dl=0" target="_blank" rel="noopener noreferrer">Inflation and Real Activity over the Business Cycle</a>, 
