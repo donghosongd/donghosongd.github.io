@@ -163,6 +163,12 @@
 <ol>
         
     <li>
+        <a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=fbthgd5r&dl=0" target="_blank" rel="noopener noreferrer">Inflation and Real Activity over the Business Cycle</a>, 
+        with Francesco Bianchi and Giovanni Nicolò, 2025
+        <br>(<em>Review of Economic Studies</em>, R&R)
+    </li>
+    
+    <li>
         <a href="https://www.dropbox.com/scl/fi/1063p13kd0dw4oxzh99m4/CLS-latest.pdf?rlkey=bu8nrms7qdoggoiwefabdhbse&st=5cd2z5qr&dl=0" target="_blank" rel="noopener noreferrer">The Real Channel for Nominal Bond-Stock Puzzles</a>, 
         with Mikhail Chernov and Lars Lochstoer, 2025
         <br>(<em>Journal of Finance</em>, R&R)
@@ -181,12 +187,7 @@
         <a href="https://anderson-review.ucla.edu/prediction-markets-polls-economic-indicators-better-election-forecasting" target="_blank" rel="noopener noreferrer" class="custom-link">
     [Anderson Review]</a>, with Mikhail Chernov and Vadim Elenev, 2024
     </li>
-    
-    <li>
-        <a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=fbthgd5r&dl=0" target="_blank" rel="noopener noreferrer">Inflation and Real Activity over the Business Cycle</a>, 
-        with Francesco Bianchi and Giovanni Nicolò, 2024
-        <br>(<em>Review of Economic Studies</em>, R&R)
-    </li>
+
     
     <li>
         <a href="https://www.dropbox.com/scl/fi/71k2dtgutklgneydktr2k/draft_DSY2023_latest.pdf?rlkey=mcnqtsr517t83j2zop8fg4sy5&st=m3fu1yug&dl=0" target="_blank" rel="noopener noreferrer">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a>, 
