@@ -174,13 +174,13 @@
     <li>
      <a href="https://www.dropbox.com/scl/fi/f3kpzyux8m299b5vwwfap/Fragmentation.pdf?..." target="_blank" rel="noopener noreferrer">
     Are We Fragmented Yet? Measuring Geopolitical Fragmentation and Its Causal Effects</a>, 
-    with Jesús Fernández-Villaverde and Tomohide Mineyama, 2025
+    with Jesús Fernández-Villaverde and Tomohide Mineyama, 2025,
     [<a href="https://www.dropbox.com/scl/fi/aq6ecl8ubnxqx7psasr53/fvms-fragmentation-index.xlsx?..." target="_blank" rel="noopener noreferrer" class="custom-link">Geopolitical Fragmentation Index</a>]
     </li>    
     <li>
     <a href="https://www.dropbox.com/scl/fi/ptmzdrwvncqyzhggnjrgg/election_draft_es.pdf?rlkey=jtrkq8ehajkb9zqrdwvvd4ow7&st=r20m49nz&dl=0" target="_blank" rel="noopener noreferrer">
         The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>,
-    with Mikhail Chernov and Vadim Elenev, 2024
+    with Mikhail Chernov and Vadim Elenev, 2024,
     [<a href="https://anderson-review.ucla.edu/prediction-markets-polls-economic-indicators-better-election-forecasting" target="_blank" rel="noopener noreferrer" class="custom-link">Anderson Review</a>]
     </li>
     <li>
