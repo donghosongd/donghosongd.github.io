@@ -175,7 +175,7 @@
     </li>
     
     <li>
-  <a href="https://www.dropbox.com/scl/fi/f3kpzyux8m299b5vwwfap/Fragmentation.pdf?..." target="_blank" rel="noopener noreferrer">
+     <a href="https://www.dropbox.com/scl/fi/f3kpzyux8m299b5vwwfap/Fragmentation.pdf?..." target="_blank" rel="noopener noreferrer">
     Are We Fragmented Yet? Measuring Geopolitical Fragmentation and Its Causal Effects</a>, 
     with Jesús Fernández-Villaverde and Tomohide Mineyama, 2025
     [<a href="https://www.dropbox.com/scl/fi/aq6ecl8ubnxqx7psasr53/fvms-fragmentation-index.xlsx?..." target="_blank" rel="noopener noreferrer" class="custom-link">Geopolitical Fragmentation Index</a>]
