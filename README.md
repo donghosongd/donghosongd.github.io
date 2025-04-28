@@ -25,7 +25,7 @@
             color: #333;
             margin: 20px;
             line-height: 1.8;
-            background-color: #fbf6ef;
+            background-color: #fef9e7;
         }
 
         h1 {   
@@ -185,6 +185,7 @@ a:hover {
     <a href="https://www.dropbox.com/scl/fi/ptmzdrwvncqyzhggnjrgg/election_draft_es.pdf?rlkey=jtrkq8ehajkb9zqrdwvvd4ow7&st=r20m49nz&dl=0" target="_blank" rel="noopener noreferrer">
         The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>,
     with Mikhail Chernov and Vadim Elenev, 2024
+        <br>(<em>Journal of Econometrics</em>, R&R)
     </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/71k2dtgutklgneydktr2k/draft_DSY2023_latest.pdf?rlkey=mcnqtsr517t83j2zop8fg4sy5&st=m3fu1yug&dl=0" target="_blank" rel="noopener noreferrer">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a>, 
