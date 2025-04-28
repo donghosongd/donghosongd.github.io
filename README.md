@@ -69,6 +69,7 @@
         }
 
         section {
+            font-family: 'Nunito', sans-serif; /* ✅ added */
             margin-bottom: 40px;
         }
 
