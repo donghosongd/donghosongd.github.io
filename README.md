@@ -61,12 +61,12 @@
 
 a {
     text-decoration: none;
-    color: #009688; /* ✅ lighter teal green */
+    color: #117a8b; /* ✅ muted deep cyan */
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #00796b; /* ✅ deeper teal on hover */
+    color: #0d5e6d; /* ✅ slightly darker cyan on hover */
 }
 
         section {
@@ -183,8 +183,7 @@ a:hover {
     <li>
     <a href="https://www.dropbox.com/scl/fi/ptmzdrwvncqyzhggnjrgg/election_draft_es.pdf?rlkey=jtrkq8ehajkb9zqrdwvvd4ow7&st=r20m49nz&dl=0" target="_blank" rel="noopener noreferrer">
         The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>,
-    with Mikhail Chernov and Vadim Elenev, 2024,
-    [<a href="https://anderson-review.ucla.edu/prediction-markets-polls-economic-indicators-better-election-forecasting" target="_blank" rel="noopener noreferrer" class="custom-link">Anderson Review</a>]
+    with Mikhail Chernov and Vadim Elenev, 2024
     </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/71k2dtgutklgneydktr2k/draft_DSY2023_latest.pdf?rlkey=mcnqtsr517t83j2zop8fg4sy5&st=m3fu1yug&dl=0" target="_blank" rel="noopener noreferrer">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a>, 
