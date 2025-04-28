@@ -29,20 +29,21 @@
         }
 
         h1 {   
-            font-family: 'Nunito', serif;
-            font-size: 1.5em;
-            font-weight: 400;
+            font-family: 'Nunito', sans-serif; /* ✅ fixed */
+            font-size: 1.8em; /* optional: looks better with Nunito */
+            font-weight: 600; /* optional: slightly bolder */
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        
+        h2 {   
+            font-family: 'Nunito', sans-serif; /* ✅ fixed */
+            font-size: 1.4em; /* optional: better with Nunito */
+            font-weight: 600; /* optional: slightly bolder */
             color: #2c3e50;
             margin-bottom: 10px;
         }
 
-        h2 {   
-            font-family: 'Nunito', serif;
-            font-size: 20px;
-            font-weight: 400;
-            color: #2c3e50;
-            margin-bottom: 10px;
-        }
 
         hr {
             border: 0;
