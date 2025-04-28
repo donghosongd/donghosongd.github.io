@@ -218,46 +218,46 @@ a:hover {
     <li>
         <a href="https://www.sciencedirect.com/science/article/pii/S0165188922002846" target="_blank" rel="noopener noreferrer">The Long-Term Impact of the COVID-19 Unemployment Shock on Life Expectancy and Mortality Rates</a>, 
         with Francesco Bianchi and Giada Bianchi, 
-        <em>Journal of Economic Dynamics and Control</em>, 2023, Volume 146, 104581 
+        <em>Journal of Economic Dynamics and Control</em>, 2023
     </li>
     <li>
         <a href="https://www.tandfonline.com/doi/full/10.1080/07350015.2022.2097912?journalCode=ubes20" target="_blank" rel="noopener noreferrer">News-Driven Uncertainty Fluctuations</a>, 
         with Jenny Tang, 
-        <em>Journal of Business and Economic Statistics</em>, 2023, Volume 41, Issue 3, pp. 968-982 
+        <em>Journal of Business and Economic Statistics</em>, 2023
     </li>
     <li>
         <a href="https://www.sciencedirect.com/science/article/pii/S0304405X21002361?via%3Dihub" target="_blank" rel="noopener noreferrer">The Term Structure of Equity Risk Premia</a>, 
         with Ravi Bansal, Shane Miller, and Amir Yaron, 
-        <em>Journal of Financial Economics</em>, 2021, Volume 142, Issue 3, pp. 1209-1228 
+        <em>Journal of Financial Economics</em>, 2021
     </li>
     <li>
         <a href="https://www.sciencedirect.com/science/article/pii/S0304405X20302841" target="_blank" rel="noopener noreferrer">Benchmark Interest Rates when the Government is Risky</a>, 
         with Patrick Augustin, Mikhail Chernov, and Lukas Schmid, 
-        <em>Journal of Financial Economics</em>, 2021, Volume 140, Issue 1, pp. 74-100 
+        <em>Journal of Financial Economics</em>, 2021
     </li>
     <li>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X19302922?via%3Dihub" target="_blank" rel="noopener noreferrer">Sovereign Credit Risk and Exchange Rates: Evidence from CDS Quanto Spreads</a>, 
         with Patrick Augustin and Mikhail Chernov, 
-        <em>Journal of Financial Economics</em>, 2020, Volume 137, Issue 1, pp. 129-151 
+        <em>Journal of Financial Economics</em>, 2020
     </li>
     <li>
         <a href="https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA14308" target="_blank" rel="noopener noreferrer">Identifying Long-Run Risks: A Bayesian Mixed-Frequency Approach</a>, 
         with Frank Schorfheide and Amir Yaron, 
-        <em>Econometrica</em>, 2018, Volume 86, Issue 2, pp. 617-654 
+        <em>Econometrica</em>, 2018
     </li>
     <li>
         <a href="https://academic.oup.com/rfs/article/30/8/2761/3788530" target="_blank" rel="noopener noreferrer">Bond Market Exposures to Macroeconomic and Monetary Policy Risks</a>, 
-        <em>Review of Financial Studies</em>, 2017, Volume 30, Issue 8, pp. 2761-2817 
+        <em>Review of Financial Studies</em>, 2017
     </li>
     <li>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304407615002857" target="_blank" rel="noopener noreferrer">Improving GDP Measurement: A Measurement-Error Perspective</a>, 
         with Borağan Aruoba, Francis Diebold, Jeremy Nalewaik, and Frank Schorfheide, 
-        <em>Journal of Econometrics</em>, 2016, Volume 191, Issue 2, pp. 384-397 
+        <em>Journal of Econometrics</em>, 2016
     </li>
     <li>
         <a href="https://www.tandfonline.com/doi/abs/10.1080/07350015.2014.954707" target="_blank" rel="noopener noreferrer">Real-time Forecasting with a Mixed-Frequency VAR</a>, 
         with Frank Schorfheide, 
-        <em>Journal of Business and Economic Statistics</em>, 2015, Volume 33, Issue 3, pp. 366-380 
+        <em>Journal of Business and Economic Statistics</em>, 2015
     </li>
 </ol>
 
