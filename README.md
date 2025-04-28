@@ -61,12 +61,12 @@
 
 a {
     text-decoration: none;
-    color: #2e7d32; /* ✅ dark green */
+    color: #2c3e50; /* ✅ dark muted blue (matches your headings) */
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #1b5e20; /* ✅ even darker green on hover */
+    color: #1a2a36; /* ✅ slightly darker on hover */
 }
 
         section {
