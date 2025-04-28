@@ -25,6 +25,7 @@
             color: #333;
             margin: 20px;
             line-height: 1.8;
+            background-color: #f5f2f3; /* ✅ added this line */
         }
 
         h1 {   
