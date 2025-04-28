@@ -61,12 +61,12 @@
 
 a {
     text-decoration: none;
-    color: #5e3a5e; /* ✅ muted eggplant */
+    color: #0d1b2a; /* ✅ deep rich navy */
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #432a43; /* ✅ slightly darker on hover */
+    color: #005582; /* ✅ modern blue on hover */
 }
 
         section {
