@@ -165,7 +165,7 @@ a:hover {
 
 <ol>
 <li>
-    <a href="https://www.dropbox.com/scl/fi/f3kpzyux8m299b5vwwfap/Fragmentation.pdf?rlkey=7m1q2lcof1sutuduz5derkeio&st=a86xgwoc&dl=0" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.dropbox.com/scl/fi/f3kpzyux8m299b5vwwfap/Fragmentation.pdf?rlkey=7m1q2lcof1sutuduz5derkeio&st=jl72x0iz&dl=0" target="_blank" rel="noopener noreferrer">
     Are We Fragmented Yet? Measuring Geopolitical Fragmentation and Its Causal Effects</a>, 
     with Jesús Fernández-Villaverde and Tomohide Mineyama, 2025, 
     See the 
