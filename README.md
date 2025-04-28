@@ -61,12 +61,12 @@
 
 a {
     text-decoration: none;
-    color: #00796b; /* ✅ deep teal green */
+    color: #009688; /* ✅ lighter teal green */
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #00594e; /* ✅ even deeper teal green on hover */
+    color: #00796b; /* ✅ deeper teal on hover */
 }
 
         section {
