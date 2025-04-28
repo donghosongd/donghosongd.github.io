@@ -168,29 +168,29 @@ a:hover {
     <a href="https://www.dropbox.com/scl/fi/f3kpzyux8m299b5vwwfap/Fragmentation.pdf?rlkey=7m1q2lcof1sutuduz5derkeio&st=jl72x0iz&dl=0" target="_blank" rel="noopener noreferrer">
     Are We Fragmented Yet? Measuring Geopolitical Fragmentation and Its Causal Effects</a>, 
     with Jesús Fernández-Villaverde and Tomohide Mineyama, 2025
-    <br>--See the 
+    <br>-See the 
     <a href="https://geopol-fragmentation-index.com/" target="_blank" rel="noopener noreferrer">Geopolitical Fragmentation Index</a> webpage
 </li>     
     <li>
         <a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=fbthgd5r&dl=0" target="_blank" rel="noopener noreferrer">Inflation and Real Activity over the Business Cycle</a>, 
         with Francesco Bianchi and Giovanni Nicolò, 2025
-        <br>--Review of Economic Studies, R&R
+        <br>-Review of Economic Studies, R&R
     </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/1063p13kd0dw4oxzh99m4/CLS-latest.pdf?rlkey=bu8nrms7qdoggoiwefabdhbse&st=5cd2z5qr&dl=0" target="_blank" rel="noopener noreferrer">The Real Channel for Nominal Bond-Stock Puzzles</a>, 
         with Mikhail Chernov and Lars Lochstoer, 2025
-        <br>--Journal of Finance, R&R
+        <br>-Journal of Finance, R&R
     </li> 
 <li>
     <a href="https://www.dropbox.com/scl/fi/ptmzdrwvncqyzhggnjrgg/election_draft_es.pdf?rlkey=jtrkq8ehajkb9zqrdwvvd4ow7&st=r20m49nz&dl=0" target="_blank" rel="noopener noreferrer">
         The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>,
     with Mikhail Chernov and Vadim Elenev, 2024
-        <br>--Journal of Econometrics, R&R
+        <br>-Journal of Econometrics, R&R
     </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/71k2dtgutklgneydktr2k/draft_DSY2023_latest.pdf?rlkey=mcnqtsr517t83j2zop8fg4sy5&st=m3fu1yug&dl=0" target="_blank" rel="noopener noreferrer">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a>, 
         with Taeyoung Doh and Shu-Kuei Yang, 2023
-        <br>--American Economic Journal: Macroeconomics, R&R
+        <br>-American Economic Journal: Macroeconomics, R&R
     </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/6viaoh5c6by29tiqslpl3/DGS_draft_latest_RWP.pdf?rlkey=qjfe1djr28i76rahl9eujhohl&st=bh45y0d0&dl=0" target="_blank" rel="noopener noreferrer">Leaning Against the Data: Policymaker Communications under State-based Forward Guidance</a>, 
