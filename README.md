@@ -59,15 +59,15 @@
             color: #4d4d4d;
         }
 
-        a {
-            text-decoration: none;
-            color: #007c91;
-            transition: color 0.3s ease;
-        }
+a {
+    text-decoration: none;
+    color: #2e7d32; /* ✅ dark green */
+    transition: color 0.3s ease;
+}
 
-        a:hover {
-            color: #006672;
-        }
+a:hover {
+    color: #1b5e20; /* ✅ even darker green on hover */
+}
 
         section {
             font-family: 'Nunito', sans-serif; /* ✅ added */
