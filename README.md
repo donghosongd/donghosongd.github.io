@@ -29,7 +29,7 @@
         }
 
         h1 {   
-            font-family: 'Lora', serif;
+            font-family: 'Nunito', serif;
             font-size: 1.5em;
             font-weight: 400;
             color: #2c3e50;
@@ -37,7 +37,7 @@
         }
 
         h2 {   
-            font-family: 'Lora', serif;
+            font-family: 'Nunito', serif;
             font-size: 20px;
             font-weight: 400;
             color: #2c3e50;
