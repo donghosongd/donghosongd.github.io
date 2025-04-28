@@ -203,17 +203,17 @@ a:hover {
     <li>
         <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13336" target="_blank" rel="noopener noreferrer">The Term Structure of Covered Interest Rate Parity Violations</a>, 
         with Patrick Augustin, Mikhail Chernov, Lukas Schmid, 
-        <em>Journal of Finance</em>, 2024, Volume 79, Issue 3, pp. 2077-2114 
+        <em>Journal of Finance</em>, 2024 
     </li>
     <li>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X24000138" target="_blank" rel="noopener noreferrer">Fearing the Fed: How Wall Street Reads Main Street</a>, 
         with Vadim Elenev, Tzuo Law, and Amir Yaron, 
-        <em>Journal of Financial Economics</em>, 2024, Volume 153, 103790 
+        <em>Journal of Financial Economics</em>, 2024
     </li>
     <li>
         <a href="https://www.ijcb.org/journal/ijcb24q4a5.pdf" target="_blank" rel="noopener noreferrer">Real-Time Forecasting with a (Standard) Mixed-Frequency VAR During a Pandemic</a>, 
         with Frank Schorfheide, 
-        <em>International Journal of Central Banking</em>, 2024, Volume 20, Number 4, pp. 275-320 
+        <em>International Journal of Central Banking</em>, 2024
     </li>
     <li>
         <a href="https://www.sciencedirect.com/science/article/pii/S0165188922002846" target="_blank" rel="noopener noreferrer">The Long-Term Impact of the COVID-19 Unemployment Shock on Life Expectancy and Mortality Rates</a>, 
