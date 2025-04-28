@@ -61,12 +61,12 @@
 
 a {
     text-decoration: none;
-    color: #0d1b2a; /* ✅ deep rich navy */
+    color: #b23b3b; /* ✅ vivid soft red */
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #005582; /* ✅ modern blue on hover */
+    color: #8e2e2e; /* ✅ darker soft red on hover */
 }
 
         section {
