@@ -164,6 +164,13 @@ a:hover {
 
 
 <ol>
+<li>
+    <a href="https://www.dropbox.com/scl/fi/f3kpzyux8m299b5vwwfap/Fragmentation.pdf?..." target="_blank" rel="noopener noreferrer">
+    Are We Fragmented Yet? Measuring Geopolitical Fragmentation and Its Causal Effects</a>, 
+    with Jesús Fernández-Villaverde and Tomohide Mineyama, 2025, 
+    See the 
+    <a href="https://geopol-fragmentation-index.com/" target="_blank" rel="noopener noreferrer">Geopolitical Fragmentation Index</a> webpage
+</li>     
     <li>
         <a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=fbthgd5r&dl=0" target="_blank" rel="noopener noreferrer">Inflation and Real Activity over the Business Cycle</a>, 
         with Francesco Bianchi and Giovanni Nicolò, 2025
@@ -173,15 +180,8 @@ a:hover {
         <a href="https://www.dropbox.com/scl/fi/1063p13kd0dw4oxzh99m4/CLS-latest.pdf?rlkey=bu8nrms7qdoggoiwefabdhbse&st=5cd2z5qr&dl=0" target="_blank" rel="noopener noreferrer">The Real Channel for Nominal Bond-Stock Puzzles</a>, 
         with Mikhail Chernov and Lars Lochstoer, 2025
         <br>(<em>Journal of Finance</em>, R&R)
-    </li>
+    </li> 
 <li>
-    <a href="https://www.dropbox.com/scl/fi/f3kpzyux8m299b5vwwfap/Fragmentation.pdf?..." target="_blank" rel="noopener noreferrer">
-    Are We Fragmented Yet? Measuring Geopolitical Fragmentation and Its Causal Effects</a>, 
-    with Jesús Fernández-Villaverde and Tomohide Mineyama, 2025, 
-    See the 
-    <a href="https://geopol-fragmentation-index.com/" target="_blank" rel="noopener noreferrer">Geopolitical Fragmentation Index</a> webpage
-</li>  
-    <li>
     <a href="https://www.dropbox.com/scl/fi/ptmzdrwvncqyzhggnjrgg/election_draft_es.pdf?rlkey=jtrkq8ehajkb9zqrdwvvd4ow7&st=r20m49nz&dl=0" target="_blank" rel="noopener noreferrer">
         The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>,
     with Mikhail Chernov and Vadim Elenev, 2024
