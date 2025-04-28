@@ -25,7 +25,7 @@
             color: #333;
             margin: 20px;
             line-height: 1.8;
-            background-color: #e7ece7;
+            background-color: #eee9f3;
         }
 
         h1 {   
