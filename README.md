@@ -61,12 +61,12 @@
 
 a {
     text-decoration: none;
-    color: #117a8b; /* ✅ muted deep cyan */
+    color: #1e90ff; /* ✅ bright blue */
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #0d5e6d; /* ✅ slightly darker cyan on hover */
+    color: #1565c0; /* ✅ slightly deeper blue on hover */
 }
 
         section {
@@ -178,7 +178,7 @@ a:hover {
      <a href="https://www.dropbox.com/scl/fi/f3kpzyux8m299b5vwwfap/Fragmentation.pdf?..." target="_blank" rel="noopener noreferrer">
     Are We Fragmented Yet? Measuring Geopolitical Fragmentation and Its Causal Effects</a>, 
     with Jesús Fernández-Villaverde and Tomohide Mineyama, 2025,
-    [<a href="https://www.dropbox.com/scl/fi/aq6ecl8ubnxqx7psasr53/fvms-fragmentation-index.xlsx?rlkey=dwfsgjq2xdon33qwb788vfez6&st=eur8gdww&dl=0" target="_blank" rel="noopener noreferrer" class="custom-link">Geopolitical Fragmentation Index</a>]
+    [<a href="https://geopol-fragmentation-index.com/" target="_blank" rel="noopener noreferrer" class="custom-link">Geopolitical Fragmentation Index</a>]
     </li>    
     <li>
     <a href="https://www.dropbox.com/scl/fi/ptmzdrwvncqyzhggnjrgg/election_draft_es.pdf?rlkey=jtrkq8ehajkb9zqrdwvvd4ow7&st=r20m49nz&dl=0" target="_blank" rel="noopener noreferrer">
