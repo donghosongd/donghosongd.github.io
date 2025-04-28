@@ -61,12 +61,12 @@
 
 a {
     text-decoration: none;
-    color: #1e90ff; /* ✅ bright blue */
+    color: #2979ff; /* ✅ slightly darker bright blue */
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #1565c0; /* ✅ slightly deeper blue on hover */
+    color: #1565c0; /* ✅ darker blue on hover */
 }
 
         section {
