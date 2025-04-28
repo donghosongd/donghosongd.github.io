@@ -61,12 +61,12 @@
 
 a {
     text-decoration: none;
-    color: #b23b3b; /* ✅ vivid soft red */
+    color: #00796b; /* ✅ deep teal green */
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #8e2e2e; /* ✅ darker soft red on hover */
+    color: #00594e; /* ✅ even deeper teal green on hover */
 }
 
         section {
