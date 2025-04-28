@@ -61,7 +61,7 @@
 
 a {
     text-decoration: none;
-    color: #1e40af; /* ✅ deeper dark blue */
+    color: #3366cc;
     transition: color 0.3s ease;
 }
 
