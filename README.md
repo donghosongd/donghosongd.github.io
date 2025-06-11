@@ -188,8 +188,8 @@ a:hover {
         <br>- Journal of Econometrics, R&R
     </li>
     <li>
-        <a href="https://www.dropbox.com/scl/fi/71k2dtgutklgneydktr2k/draft_DSY2023_latest.pdf?rlkey=mcnqtsr517t83j2zop8fg4sy5&st=m3fu1yug&dl=0" target="_blank" rel="noopener noreferrer">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a>, 
-        with Taeyoung Doh and Shu-Kuei Yang, 2023
+        <a href="https://www.dropbox.com/scl/fi/w256an4fnmq05cufs43ex/draft_DSY2025_latest.pdf?rlkey=d22fk9azra0dbrwy5jbo280zn&st=b3m9e5jh&dl=0" target="_blank" rel="noopener noreferrer">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a>, 
+        with Taeyoung Doh and Shu-Kuei Yang, 2025
         <br>- American Economic Journal: Macroeconomics, R&R
     </li>
     <li>
