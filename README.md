@@ -176,11 +176,6 @@ a:hover {
         with Francesco Bianchi and Giovanni Nicolò, 2025
         <br>- Review of Economic Studies, R&R
     </li>
-    <li>
-        <a href="https://www.dropbox.com/scl/fi/1063p13kd0dw4oxzh99m4/CLS-latest.pdf?rlkey=bu8nrms7qdoggoiwefabdhbse&st=5cd2z5qr&dl=0" target="_blank" rel="noopener noreferrer">The Real Channel for Nominal Bond-Stock Puzzles</a>, 
-        with Mikhail Chernov and Lars Lochstoer, 2025
-        <br>- Journal of Finance, R&R
-    </li> 
 <li>
     <a href="https://www.dropbox.com/scl/fi/ptmzdrwvncqyzhggnjrgg/election_draft_es.pdf?rlkey=jtrkq8ehajkb9zqrdwvvd4ow7&st=r20m49nz&dl=0" target="_blank" rel="noopener noreferrer">
         The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>,
@@ -202,6 +197,12 @@ a:hover {
 <h2>Publications</h2>
 
 <ol>
+    <li>
+        <a href="https://www.dropbox.com/scl/fi/1063p13kd0dw4oxzh99m4/CLS-latest.pdf?rlkey=bu8nrms7qdoggoiwefabdhbse&st=5cd2z5qr&dl=0" target="_blank" rel="noopener noreferrer">The Real Channel for Nominal Bond-Stock Puzzles</a>, 
+        with Mikhail Chernov and Lars Lochstoer, 2025,
+        Journal of Finance, forthcoming 
+    </li> 
+    
     <li>
         <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13336" target="_blank" rel="noopener noreferrer">The Term Structure of Covered Interest Rate Parity Violations</a>, 
         with Patrick Augustin, Mikhail Chernov, Lukas Schmid, 
