@@ -60,12 +60,12 @@
 
 a {
     text-decoration: none;
-    color: #3366cc;
+    color: #3a7d7d;  /* soft blue-green */
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #123074; /* ✅ slightly darker on hover */
+    color: #2e5e5e;  /* slightly darker on hover */
 }
 
         section {
