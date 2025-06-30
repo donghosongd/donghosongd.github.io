@@ -69,7 +69,7 @@ a:hover {
 }
 
 .journal {
-    color: #4b306a; /* Royal Purple */
+    color: #345e4d;  /* Academic Green */
     font-weight: 500;
 }
 
