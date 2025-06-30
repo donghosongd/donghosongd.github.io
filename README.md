@@ -18,14 +18,14 @@
     <!-- Importing Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap" rel="stylesheet">
     
-    <style>
+body {
     font-family: 'Nunito', sans-serif;
     font-weight: 300;
-    color: #4a4a4a;
+    color: #4a4a4a;  /* mild gray */
     margin: 20px;
     line-height: 1.8;
-    background-color: #f8fff8;  /* new: ivory with green hue */
-        }
+    background-color: #f8fff8;  /* ivory with green hue */
+}
 
         h1 {   
             font-family: 'Nunito', sans-serif; /* ✅ fixed */
