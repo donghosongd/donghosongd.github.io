@@ -62,6 +62,7 @@
 a {
     text-decoration: none;
     color: #26724a;  /* slightly darker than #2e8b57 */
+    font-weight: 400;
     transition: color 0.3s ease;
 }
 
