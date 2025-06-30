@@ -71,7 +71,7 @@ a:hover {
 
 .journal {
     color: #4a4a4a;
-    font-weight: 500;
+    font-weight: 300;
 }
 
         section {
