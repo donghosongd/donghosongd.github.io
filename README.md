@@ -25,7 +25,7 @@
             color: #4a4a4a;  /* mild gray */
             margin: 20px;
             line-height: 1.8;
-            background-color: #f8fff8;  /* ivory with green hue */
+            background-color: #fcfdfc; 
         }
 
         h1 {   
@@ -70,7 +70,7 @@ a:hover {
 }
 
 .journal {
-    color: #345e4d;  /* Academic Green */
+    color: #204d3a;
     font-weight: 500;
 }
 
