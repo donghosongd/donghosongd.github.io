@@ -25,7 +25,7 @@
             color: #4a4a4a;  /* mild gray */
             margin: 20px;
             line-height: 1.8;
-            background-color: #fdfdfb;
+            background-color: #fefefe;
         }
 
         h1 {   
@@ -61,12 +61,12 @@
 
 a {
     text-decoration: none;
-    color: #333; /* same as body text */
+    color: #2e8b57;  /* slightly bright green */
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #000; /* slightly darker on hover for usability */
+    color: #1e5c3b;  /* darker green on hover */
 }
 
 .journal {
