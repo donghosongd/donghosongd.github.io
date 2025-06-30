@@ -61,7 +61,7 @@
 
 a {
     text-decoration: none;
-    color: #2e8b57;  /* slightly bright green */
+    color: #26724a;  /* slightly darker than #2e8b57 */
     transition: color 0.3s ease;
 }
 
