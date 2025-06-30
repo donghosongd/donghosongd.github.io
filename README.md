@@ -20,12 +20,12 @@
     
     <style>
         body {
-            font-family: 'Nunito', sans-serif;
-            font-weight: 300;
-            color: #333;
-            margin: 20px;
-            line-height: 1.8;
-            background-color: #f9f7f1;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+    color: #333;
+    margin: 20px;
+    line-height: 1.8;
+    background-color: #f4fdf4;  /* mint cream */
         }
 
         h1 {   
