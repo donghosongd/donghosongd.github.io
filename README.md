@@ -69,7 +69,7 @@ a:hover {
 }
 
 .journal {
-    color: #6e4a7e; /* Plum */
+    color: #4b306a; /* Royal Purple */
     font-weight: 500;
 }
 
@@ -214,56 +214,56 @@ a:hover {
     <li>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X24000138" target="_blank" rel="noopener noreferrer">Fearing the Fed: How Wall Street Reads Main Street</a>, 
         with Vadim Elenev, Tzuo Law, and Amir Yaron, 
-        Journal of Financial Economics, 2024
+        <span class="journal">Journal of Financial Economics</span>, 2024
     </li>
     <li>
         <a href="https://www.ijcb.org/journal/ijcb24q4a5.pdf" target="_blank" rel="noopener noreferrer">Real-Time Forecasting with a (Standard) Mixed-Frequency VAR During a Pandemic</a>, 
         with Frank Schorfheide, 
-        International Journal of Central Banking, 2024
+        <span class="journal">International Journal of Central Banking</span>, 2024
     </li>
     <li>
         <a href="https://www.sciencedirect.com/science/article/pii/S0165188922002846" target="_blank" rel="noopener noreferrer">The Long-Term Impact of the COVID-19 Unemployment Shock on Life Expectancy and Mortality Rates</a>, 
         with Francesco Bianchi and Giada Bianchi, 
-        Journal of Economic Dynamics and Control, 2023
+        <span class="journal">Journal of Economic Dynamics and Control</span>, 2023
     </li>
     <li>
         <a href="https://www.tandfonline.com/doi/full/10.1080/07350015.2022.2097912?journalCode=ubes20" target="_blank" rel="noopener noreferrer">News-Driven Uncertainty Fluctuations</a>, 
         with Jenny Tang, 
-        Journal of Business and Economic Statistics, 2023
+        <span class="journal">Journal of Business and Economic Statistics</span>, 2023
     </li>
     <li>
         <a href="https://www.sciencedirect.com/science/article/pii/S0304405X21002361?via%3Dihub" target="_blank" rel="noopener noreferrer">The Term Structure of Equity Risk Premia</a>, 
         with Ravi Bansal, Shane Miller, and Amir Yaron, 
-        Journal of Financial Economics, 2021
+        <span class="journal">Journal of Financial Economics</span>, 2021
     </li>
     <li>
         <a href="https://www.sciencedirect.com/science/article/pii/S0304405X20302841" target="_blank" rel="noopener noreferrer">Benchmark Interest Rates when the Government is Risky</a>, 
         with Patrick Augustin, Mikhail Chernov, and Lukas Schmid, 
-        Journal of Financial Economics, 2021
+        <span class="journal">Journal of Financial Economics</span>, 2021
     </li>
     <li>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X19302922?via%3Dihub" target="_blank" rel="noopener noreferrer">Sovereign Credit Risk and Exchange Rates: Evidence from CDS Quanto Spreads</a>, 
         with Patrick Augustin and Mikhail Chernov, 
-        Journal of Financial Economics, 2020
+        <span class="journal">Journal of Financial Economics</span>, 2020
     </li>
     <li>
         <a href="https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA14308" target="_blank" rel="noopener noreferrer">Identifying Long-Run Risks: A Bayesian Mixed-Frequency Approach</a>, 
         with Frank Schorfheide and Amir Yaron, 
-        Econometrica, 2018
+        <span class="journal">Econometrica</span>, 2018
     </li>
     <li>
         <a href="https://academic.oup.com/rfs/article/30/8/2761/3788530" target="_blank" rel="noopener noreferrer">Bond Market Exposures to Macroeconomic and Monetary Policy Risks</a>, 
-        Review of Financial Studies, 2017
+        <span class="journal">Review of Financial Studies</span>, 2017
     </li>
     <li>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304407615002857" target="_blank" rel="noopener noreferrer">Improving GDP Measurement: A Measurement-Error Perspective</a>, 
         with Borağan Aruoba, Francis Diebold, Jeremy Nalewaik, and Frank Schorfheide, 
-        Journal of Econometrics, 2016
+        <span class="journal">Journal of Econometrics</span>, 2016
     </li>
     <li>
         <a href="https://www.tandfonline.com/doi/abs/10.1080/07350015.2014.954707" target="_blank" rel="noopener noreferrer">Real-time Forecasting with a Mixed-Frequency VAR</a>, 
         with Frank Schorfheide, 
-        Journal of Business and Economic Statistics, 2015
+        <span class="journal">Journal of Business and Economic Statistics</span>, 2015
     </li>
 </ol>
 
