@@ -21,7 +21,7 @@
     <style>
     font-family: 'Nunito', sans-serif;
     font-weight: 300;
-    color: #333;
+    color: #4a4a4a;
     margin: 20px;
     line-height: 1.8;
     background-color: #f8fff8;  /* new: ivory with green hue */
