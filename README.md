@@ -68,6 +68,11 @@ a:hover {
     color: #000; /* slightly darker on hover for usability */
 }
 
+.journal {
+    color: #6e4a7e; /* Plum */
+    font-weight: 500;
+}
+
         section {
             font-family: 'Nunito', sans-serif; /* ✅ added */
             margin-bottom: 40px;
@@ -199,12 +204,12 @@ a:hover {
     <li>
         <a href="https://www.dropbox.com/scl/fi/1063p13kd0dw4oxzh99m4/CLS-latest.pdf?rlkey=bu8nrms7qdoggoiwefabdhbse&st=5cd2z5qr&dl=0" target="_blank" rel="noopener noreferrer">The Real Channel for Nominal Bond-Stock Puzzles</a>, 
         with Mikhail Chernov and Lars Lochstoer, 2025,
-        Journal of Finance, forthcoming 
+        <span class="journal">Journal of Finance</span>, forthcoming 
     </li>     
     <li>
         <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13336" target="_blank" rel="noopener noreferrer">The Term Structure of Covered Interest Rate Parity Violations</a>, 
         with Patrick Augustin, Mikhail Chernov, Lukas Schmid, 
-        Journal of Finance, 2024 
+        <span class="journal">Journal of Finance</span>, 2024 
     </li>
     <li>
         <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X24000138" target="_blank" rel="noopener noreferrer">Fearing the Fed: How Wall Street Reads Main Street</a>, 
