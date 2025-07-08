@@ -184,18 +184,18 @@ p, li, span, div {
     <li>
         <a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=fbthgd5r&dl=0" target="_blank" rel="noopener noreferrer">Inflation and Real Activity over the Business Cycle</a>, 
         with Francesco Bianchi and Giovanni Nicolò, 2025
-        <br>- Review of Economic Studies, R&R
+        <br>- <span class="journal">Review of Economic Studies</span>, R&R
     </li>
 <li>
     <a href="https://www.dropbox.com/scl/fi/ptmzdrwvncqyzhggnjrgg/election_draft_es.pdf?rlkey=jtrkq8ehajkb9zqrdwvvd4ow7&st=r20m49nz&dl=0" target="_blank" rel="noopener noreferrer">
         The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>,
     with Mikhail Chernov and Vadim Elenev, 2024
-        <br>- Journal of Econometrics, R&R
+        <br>- <span class="journal">Journal of Econometrics</span>, R&R
     </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/34976vtwb4uj5k78tb3ip/draft_DSY2025_latest.pdf?rlkey=mst1s3g68c7plrpjot1cmwidr&st=ok32jr49&dl=0" target="_blank" rel="noopener noreferrer">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a>, 
         with Taeyoung Doh and Shu-Kuei Yang, 2025
-        <br>- American Economic Journal: Macroeconomics, R&R
+        <br>- <span class="journal">American Economic Journal: Macroeconomics</span>, R&R
     </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/6viaoh5c6by29tiqslpl3/DGS_draft_latest_RWP.pdf?rlkey=qjfe1djr28i76rahl9eujhohl&st=bh45y0d0&dl=0" target="_blank" rel="noopener noreferrer">Leaning Against the Data: Policymaker Communications under State-based Forward Guidance</a>, 
