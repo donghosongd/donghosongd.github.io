@@ -70,6 +70,10 @@ a:hover {
     color: #1e5c3b;  /* darker green on hover */
 }
 
+p, li, span, div {
+    color: #4a4a4a;  /* ensure all standard elements use gray */
+}
+
 .journal {
     color: #4a4a4a;
     font-weight: 300;
