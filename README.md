@@ -75,7 +75,7 @@ p, li, span, div {
 }
 
 .journal {
-    color: #5a5a5a;  /* slightly darker than #7a7a7a */
+    color: #b58900; 
     font-weight: 400;
 }
 
