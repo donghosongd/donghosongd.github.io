@@ -152,11 +152,11 @@ p, li, span, div {
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
     <div style="flex: 1; min-width: 200px;">
-        <p style="margin: 0; padding: 0; font-size: 1.2em; text-align: left;">
-            Associate Professor of Finance<br>
-            Johns Hopkins University<br>
-            Carey Business School<br>
-        </p>
+            <p style="margin: 0; padding: 0; font-size: 1.2em; text-align: left; color: #4a4a4a; font-weight: 400;">
+                Associate Professor of Finance<br>
+                Johns Hopkins University<br>
+                Carey Business School<br>
+            </p>
         <p style="margin-top: 20px; font-size: 1.2em; text-align: left;">
             <a href="mailto:dongho.song@jhu.edu">dongho.song@jhu.edu</a><br>
             <a href="https://www.dropbox.com/scl/fi/24w0wsai88q1725l73xho/DonghoSong-CV.pdf?rlkey=vfe2hbq6pua4apthvi3whmtwy&st=bf0i2ug0&dl=0" target="_blank">CV</a>
