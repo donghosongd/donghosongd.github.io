@@ -20,12 +20,12 @@
     
     <style>
         body {
-            font-family: 'Nunito', sans-serif;
-            font-weight: 300;
-            color: #4a4a4a;  /* mild gray */
-            margin: 20px;
-            line-height: 1.8;
-            background-color: #fefefe;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 300;
+    color: #7a7a7a;  /* lighter gray */
+    margin: 20px;
+    line-height: 1.8;
+    background-color: #fdfdfd;  /* nearly white */
         }
 
         h1 {   
@@ -71,11 +71,11 @@ a:hover {
 }
 
 p, li, span, div {
-    color: #4a4a4a;  /* ensure all standard elements use gray */
+    color: #7a7a7a;  /* lighter gray for all standard elements */
 }
 
 .journal {
-    color: #4a4a4a;
+    color: #7a7a7a;
     font-weight: 300;
 }
 
