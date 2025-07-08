@@ -25,7 +25,7 @@
     color: #7a7a7a;  /* lighter gray */
     margin: 20px;
     line-height: 1.8;
-    background-color: #fef6f6;
+    background-color: #ffffff;
         }
 
         h1 {   
