@@ -180,6 +180,7 @@ p, li, span, div {
     with Jesús Fernández-Villaverde and Tomohide Mineyama, 2025
     <br>- See the 
     <a href="https://geopol-fragmentation-index.com/" target="_blank" rel="noopener noreferrer">Geopolitical Fragmentation Index</a> webpage
+    <br>- <span class="journal">Review of Economic Studies</span>, R&R
 </li>     
     <li>
         <a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=fbthgd5r&dl=0" target="_blank" rel="noopener noreferrer">Inflation and Real Activity over the Business Cycle</a>, 
