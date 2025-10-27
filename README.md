@@ -178,8 +178,8 @@ p, li, span, div {
     <a href="https://www.dropbox.com/scl/fi/f3kpzyux8m299b5vwwfap/Fragmentation.pdf?rlkey=7m1q2lcof1sutuduz5derkeio&st=jl72x0iz&dl=0" target="_blank" rel="noopener noreferrer">
     Are We Fragmented Yet? Measuring Geopolitical Fragmentation and Its Causal Effects</a>, 
     with Jesús Fernández-Villaverde and Tomohide Mineyama, 2025
-    <br>- See the 
-    <a href="https://geopol-fragmentation-index.com/" target="_blank" rel="noopener noreferrer">Geopolitical Fragmentation Index</a> webpage
+    <br>- 
+    <a href="https://geopol-fragmentation-index.com/" target="_blank" rel="noopener noreferrer">Geopolitical Fragmentation Index</a> 
     <br>- <span class="journal">Review of Economic Studies</span>, R&R
 </li>     
     <li>
