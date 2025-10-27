@@ -175,6 +175,11 @@ p, li, span, div {
 
 <ol>
 <li>
+    <a href="https://www.dropbox.com/scl/fi/uhfzg6807xac0p8ac8ucs/NBER_IFM_October_2025.pdf?rlkey=0tj8g9i85ec6mvq0bgqqc14y3&st=zlnadye1&dl=0" target="_blank" rel="noopener noreferrer">
+    How Globalization Unravels: A Ricardian Model of Endogenous Trade Policy</a>, 
+    with Jesús Fernández-Villaverde and Tomohide Mineyama, 2025
+</li> 
+<li>
     <a href="https://www.dropbox.com/scl/fi/f3kpzyux8m299b5vwwfap/Fragmentation.pdf?rlkey=7m1q2lcof1sutuduz5derkeio&st=jl72x0iz&dl=0" target="_blank" rel="noopener noreferrer">
     Are We Fragmented Yet? Measuring Geopolitical Fragmentation and Its Causal Effects</a>, 
     with Jesús Fernández-Villaverde and Tomohide Mineyama, 2025
