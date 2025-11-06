@@ -195,7 +195,7 @@ p, li, span, div {
 <li>
     <a href="https://www.dropbox.com/scl/fi/cjdcuu37jbe7p4g2wvtp7/CES_election_latest.pdf?rlkey=jjyuj5yo0r7lx7b7okb6orj8i&st=1k43v6ec&dl=0" target="_blank" rel="noopener noreferrer">
         The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>,
-    with Mikhail Chernov and Vadim Elenev, 2024
+    with Mikhail Chernov and Vadim Elenev, 2025
         <br>- <span class="journal">Journal of Econometrics</span>, R&R
     </li>
     <li>
