@@ -193,7 +193,7 @@ p, li, span, div {
         <br>- <span class="journal">Review of Economic Studies</span>, R&R
     </li>
 <li>
-    <a href="https://www.dropbox.com/scl/fi/ptmzdrwvncqyzhggnjrgg/election_draft_es.pdf?rlkey=jtrkq8ehajkb9zqrdwvvd4ow7&st=r20m49nz&dl=0" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.dropbox.com/scl/fi/cjdcuu37jbe7p4g2wvtp7/CES_election_latest.pdf?rlkey=jjyuj5yo0r7lx7b7okb6orj8i&st=1k43v6ec&dl=0" target="_blank" rel="noopener noreferrer">
         The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>,
     with Mikhail Chernov and Vadim Elenev, 2024
         <br>- <span class="journal">Journal of Econometrics</span>, R&R
