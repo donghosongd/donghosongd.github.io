@@ -175,7 +175,7 @@ p, li, span, div {
 
 <ol>
 <li>
-    <a href="https://www.dropbox.com/scl/fi/0nzmkfariwr9xxl6xs15r/FVMS_model.pdf?rlkey=ccl19sh5buvj3podeqwlir11f&st=qvbvyliu&dl=0" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.dropbox.com/scl/fi/bsnmm8ouft2tk2bnkl1oo/How_Globalization.pdf?rlkey=34bub78pz8o1p4kkpaa731g39&st=66vxzyjd&dl=0" target="_blank" rel="noopener noreferrer">
     How Globalization Unravels: A Ricardian Model of Endogenous Trade Policy</a>, 
     with Jesús Fernández-Villaverde and Tomohide Mineyama, 2026
 </li> 
