@@ -192,12 +192,6 @@ p, li, span, div {
         with Francesco Bianchi and Giovanni Nicolò, 2025
         <br>- <span class="journal">Review of Economic Studies</span>, R&R
     </li>
-<li>
-    <a href="https://www.dropbox.com/scl/fi/cjdcuu37jbe7p4g2wvtp7/CES_election_latest.pdf?rlkey=jjyuj5yo0r7lx7b7okb6orj8i&st=1k43v6ec&dl=0" target="_blank" rel="noopener noreferrer">
-        The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>,
-    with Mikhail Chernov and Vadim Elenev, 2025
-        <br>- <span class="journal">Journal of Econometrics</span>, R&R
-    </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/6viaoh5c6by29tiqslpl3/DGS_draft_latest_RWP.pdf?rlkey=qjfe1djr28i76rahl9eujhohl&st=bh45y0d0&dl=0" target="_blank" rel="noopener noreferrer">Leaning Against the Data: Policymaker Communications under State-based Forward Guidance</a>, 
         with Taeyoung Doh and Joseph Gruber, 2022
@@ -208,6 +202,11 @@ p, li, span, div {
 <h2>Publications</h2>
 
 <ol>
+    <li>
+    <a href="https://www.dropbox.com/scl/fi/cjdcuu37jbe7p4g2wvtp7/CES_election_latest.pdf?rlkey=jjyuj5yo0r7lx7b7okb6orj8i&st=1k43v6ec&dl=0" target="_blank" rel="noopener noreferrer">
+        The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>,
+    with Mikhail Chernov and Vadim Elenev, 2026, <span class="journal">Journal of Econometrics</span>, forthcoming
+    </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/34976vtwb4uj5k78tb3ip/draft_DSY2025_latest.pdf?rlkey=mst1s3g68c7plrpjot1cmwidr&st=ok32jr49&dl=0" target="_blank" rel="noopener noreferrer">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a>, 
         with Taeyoung Doh and Shu-Kuei Yang, 2025,
