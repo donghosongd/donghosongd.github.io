@@ -209,12 +209,12 @@ p, li, span, div {
     </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/34976vtwb4uj5k78tb3ip/draft_DSY2025_latest.pdf?rlkey=mst1s3g68c7plrpjot1cmwidr&st=ok32jr49&dl=0" target="_blank" rel="noopener noreferrer">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a>, 
-        with Taeyoung Doh and Shu-Kuei Yang, 2025,
+        with Taeyoung Doh and Shu-Kuei Yang, 2026,
         <span class="journal">American Economic Journal: Macroeconomics</span>, forthcoming
     </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/1063p13kd0dw4oxzh99m4/CLS-latest.pdf?rlkey=bu8nrms7qdoggoiwefabdhbse&st=5cd2z5qr&dl=0" target="_blank" rel="noopener noreferrer">The Real Channel for Nominal Bond-Stock Puzzles</a>, 
-        with Mikhail Chernov and Lars Lochstoer, 2025,
+        with Mikhail Chernov and Lars Lochstoer, 2026,
         <span class="journal">Journal of Finance</span>, forthcoming 
     </li>     
     <li>
