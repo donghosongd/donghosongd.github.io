@@ -217,7 +217,7 @@ p, li, span, div {
     <li>
     <a href="https://www.sciencedirect.com/science/article/pii/S0304407626000138?dgcid=coauthor" target="_blank" rel="noopener noreferrer">
         The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a>,
-    with Mikhail Chernov and Vadim Elenev, 2026, <span class="journal">Journal of Econometrics</span>
+    with Mikhail Chernov and Vadim Elenev, <span class="journal">Journal of Econometrics</span>, 2026
     </li>    
     <li>
         <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13336" target="_blank" rel="noopener noreferrer">The Term Structure of Covered Interest Rate Parity Violations</a>, 
