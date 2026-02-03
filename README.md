@@ -190,8 +190,8 @@ p, li, span, div {
     <br>- <span class="journal">Review of Economic Studies</span>, R&R
 </li>     
     <li>
-        <a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=fbthgd5r&dl=0" target="_blank" rel="noopener noreferrer">Inflation and Real Activity over the Business Cycle</a>, 
-        with Francesco Bianchi and Giovanni Nicolò, 2025
+        <a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=3i6jcp7g&dl=0" target="_blank" rel="noopener noreferrer">Inflation and Real Activity over the Business Cycle</a>, 
+        with Francesco Bianchi and Giovanni Nicolò, 2026
         <br>- <span class="journal">Review of Economic Studies</span>, R&R
     </li>
     <li>
