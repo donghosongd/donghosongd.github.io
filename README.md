@@ -205,7 +205,7 @@ p, li, span, div {
 
 <ol>
     <li>
-        <a href="https://www.dropbox.com/scl/fi/34976vtwb4uj5k78tb3ip/draft_DSY2025_latest.pdf?rlkey=mst1s3g68c7plrpjot1cmwidr&st=ok32jr49&dl=0" target="_blank" rel="noopener noreferrer">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a>, 
+        <a href="https://www.aeaweb.org/articles?id=10.1257/mac.20220312&&from=f" target="_blank" rel="noopener noreferrer">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a>, 
         with Taeyoung Doh and Shu-Kuei Yang, 2026,
         <span class="journal">American Economic Journal: Macroeconomics</span>, forthcoming
     </li>
