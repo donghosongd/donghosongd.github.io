@@ -170,7 +170,17 @@ a:hover,
 .journal,
 .custom-link {
     color: #7a7a7a !important;
-}        
+}     
+body,
+.container {
+    background-color: #f7f7f7 !important;
+}
+
+hr {
+    border: 0 !important;
+    border-top: 1px solid #2f2f2f !important;
+    margin: 20px 0 !important;
+}
     </style>
 </head>
 
