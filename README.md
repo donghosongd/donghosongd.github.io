@@ -61,16 +61,17 @@
 
 a {
     text-decoration: none;
-    color: inherit;
+    color: #5f5f5f;
     font-weight: 400;
+    transition: color 0.3s ease;
 }
 
 a:hover {
-    color: inherit;
+    color: #4d4d4d;
 }
 
 .journal {
-    color: inherit;
+    color: #5f5f5f;
     font-weight: 400;
 }
 
