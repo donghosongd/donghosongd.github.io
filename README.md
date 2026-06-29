@@ -155,6 +155,22 @@ p, li, span, div {
         .custom-link {
             color: #333;
         }
+
+body,
+h1,
+h2,
+h3,
+p,
+li,
+ol,
+span,
+div,
+a,
+a:hover,
+.journal,
+.custom-link {
+    color: #7a7a7a !important;
+}        
     </style>
 </head>
 
