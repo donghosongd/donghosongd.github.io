@@ -61,23 +61,23 @@
 
 a {
     text-decoration: none;
-    color: #26724a;  /* slightly darker than #2e8b57 */
+    color: inherit;
     font-weight: 400;
-    transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #1e5c3b;  /* darker green on hover */
+    color: inherit;
+}
+
+.journal {
+    color: inherit;
+    font-weight: 400;
 }
 
 p, li, span, div {
     color: #7a7a7a;  /* lighter gray for all standard elements */
 }
 
-.journal {
-    color: #b58900; 
-    font-weight: 400;
-}
 
         section {
             font-family: 'Nunito', sans-serif; /* ✅ added */
