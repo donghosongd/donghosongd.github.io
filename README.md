@@ -71,13 +71,11 @@
         color: inherit;
     }
 
-    .journal,
-    .custom-link {
-        color: inherit;
-        font-size: inherit;
-        font-weight: inherit;
-        line-height: inherit;
-    }
+.journal {
+    color: #b05a7a;
+    font-weight: inherit;
+    font-style: normal;
+}
 
     section {
         margin-bottom: 40px;
