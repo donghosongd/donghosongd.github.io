@@ -190,11 +190,6 @@ p, li, span, div {
     <br>- <span class="journal">Review of Economic Studies</span>, R&R
 </li>     
     <li>
-        <a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=3i6jcp7g&dl=0" target="_blank" rel="noopener noreferrer">Inflation and Real Activity over the Business Cycle</a>, 
-        with Francesco Bianchi and Giovanni Nicolò, 2026
-        <br>- <span class="journal">Review of Economic Studies</span>, R&R
-    </li>
-    <li>
         <a href="https://www.dropbox.com/scl/fi/6viaoh5c6by29tiqslpl3/DGS_draft_latest_RWP.pdf?rlkey=qjfe1djr28i76rahl9eujhohl&st=bh45y0d0&dl=0" target="_blank" rel="noopener noreferrer">Leaning Against the Data: Policymaker Communications under State-based Forward Guidance</a>, 
         with Taeyoung Doh and Joseph Gruber, 2022
     </li>
@@ -205,9 +200,15 @@ p, li, span, div {
 
 <ol>
     <li>
+        <a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=3i6jcp7g&dl=0" target="_blank" rel="noopener noreferrer">Inflation and Real Activity over the Business Cycle</a>, 
+        with Francesco Bianchi and Giovanni Nicolò, 2026
+        <br>- <span class="journal">Review of Economic Studies</span>, R&R
+    </li>
+    
+    <li>
         <a href="https://www.aeaweb.org/articles?id=10.1257/mac.20220312&&from=f" target="_blank" rel="noopener noreferrer">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a>, 
-        with Taeyoung Doh and Shu-Kuei Yang, 2026,
-        <span class="journal">American Economic Journal: Macroeconomics</span>, forthcoming
+        with Taeyoung Doh and Shu-Kuei Yang, 
+        <span class="journal">American Economic Journal: Macroeconomics</span>, 2026
     </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/1063p13kd0dw4oxzh99m4/CLS-latest.pdf?rlkey=bu8nrms7qdoggoiwefabdhbse&st=5cd2z5qr&dl=0" target="_blank" rel="noopener noreferrer">The Real Channel for Nominal Bond-Stock Puzzles</a>, 
