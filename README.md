@@ -61,18 +61,28 @@
 
 a {
     text-decoration: none;
-    color: #5f5f5f;
-    font-weight: 400;
-    transition: color 0.3s ease;
+    color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    transition: none;
 }
 
 a:hover {
-    color: #4d4d4d;
+    color: inherit;
 }
 
 .journal {
-    color: #5f5f5f;
-    font-weight: 400;
+    color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+}
+
+h1 a, h2 a {
+    color: inherit;
+    font-size: inherit;
+    font-weight: inherit;
 }
 
 p, li, span, div {
@@ -124,9 +134,6 @@ p, li, span, div {
             margin-left: 20px;
         }
 
-h1 a {
-    color: #5f5f5f;
-}
 
         @media (max-width: 768px) {
             .image-crop {
