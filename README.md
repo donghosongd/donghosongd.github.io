@@ -203,7 +203,6 @@ p, li, span, div {
         <a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=3i6jcp7g&dl=0" target="_blank" rel="noopener noreferrer">Inflation and Real Activity over the Business Cycle</a>, 
         with Francesco Bianchi and Giovanni Nicolò, 2026, <span class="journal">Review of Economic Studies</span>, forthcoming
     </li>
-    
     <li>
         <a href="https://www.aeaweb.org/articles?id=10.1257/mac.20220312&&from=f" target="_blank" rel="noopener noreferrer">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a>, 
         with Taeyoung Doh and Shu-Kuei Yang, 
