@@ -18,170 +18,124 @@
     <!-- Importing Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600&display=swap" rel="stylesheet">
     
-    <style>
-        body {
-    font-family: 'Nunito', sans-serif;
-    font-weight: 300;
-    color: #7a7a7a;  /* lighter gray */
-    margin: 20px;
-    line-height: 1.8;
-    background-color: #ffffff;
-        }
+<style>
+    body {
+        font-family: 'Nunito', sans-serif;
+        font-weight: 300;
+        color: #111111;
+        margin: 20px;
+        line-height: 1.8;
+        background-color: #f7f7f7;
+    }
 
-        h1 {   
-            font-family: 'Nunito', sans-serif; /* ✅ fixed */
-            font-size: 1.8em; /* optional: looks better with Nunito */
-            font-weight: 600; /* optional: slightly bolder */
-            color: #2c3e50;
-            margin-bottom: 10px;
-        }
-        
-        h2 {   
-            font-family: 'Nunito', sans-serif; /* ✅ fixed */
-            font-size: 1.4em; /* optional: better with Nunito */
-            font-weight: 600; /* optional: slightly bolder */
-            color: #2c3e50;
-            margin-bottom: 10px;
-        }
+    h1 {
+        font-size: 1.8em;
+        font-weight: 600;
+        color: #111111;
+        margin-bottom: 10px;
+    }
 
+    h2 {
+        font-size: 1.4em;
+        font-weight: 600;
+        color: #111111;
+        margin-bottom: 10px;
+    }
 
-        hr {
-            border: 0;
-            border-top: 1px solid #bbb;
-            margin: 20px 0;
-        }
+    hr {
+        border: 0;
+        border-top: 1px solid #222222;
+        margin: 20px 0;
+    }
 
-        ol {
-            font-size: 18px;
-            line-height: 1.8;
+    ol {
+        font-size: 18px;
+        line-height: 1.8;
+        margin-left: 0;
+        padding-left: 0;
+    }
+
+    li {
+        margin-bottom: 15px;
+    }
+
+    a {
+        text-decoration: none;
+        color: inherit;
+        font-size: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+    }
+
+    a:hover {
+        color: inherit;
+    }
+
+    .journal,
+    .custom-link {
+        color: inherit;
+        font-size: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+    }
+
+    section {
+        margin-bottom: 40px;
+    }
+
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 30px;
+        border-radius: 8px;
+        background-color: #f7f7f7;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    }
+
+    .flex-container {
+        display: flex;
+        flex-wrap: nowrap;
+        align-items: flex-start;
+        overflow: hidden;
+    }
+
+    .content {
+        flex: 1;
+        min-width: 250px;
+        margin-left: 30px;
+        margin-top: 0;
+    }
+
+    .content p {
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+    div[style*="flex: 1;"] p {
+        text-align: left;
+    }
+
+    .image-crop {
+        margin-left: 20px;
+    }
+
+    @media (max-width: 768px) {
+        .image-crop {
             margin-left: 0;
-            padding-left: 0;
-            color: #4d4d4d;
+            margin-top: 20px;
+            width: 100%;
         }
 
-a {
-    text-decoration: none;
-    color: inherit;
-    font-size: inherit;
-    font-weight: inherit;
-    line-height: inherit;
-    transition: none;
-}
-
-a:hover {
-    color: inherit;
-}
-
-.journal {
-    color: inherit;
-    font-size: inherit;
-    font-weight: inherit;
-    line-height: inherit;
-}
-
-h1 a, h2 a {
-    color: inherit;
-    font-size: inherit;
-    font-weight: inherit;
-}
-
-p, li, span, div {
-    color: #7a7a7a;  /* lighter gray for all standard elements */
-}
-
-
-        section {
-            font-family: 'Nunito', sans-serif; /* ✅ added */
-            margin-bottom: 40px;
-        }
-
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-        }
-
-        li {
-            margin-bottom: 15px;
-        }
-
-        .flex-container {
-            display: flex;
-            flex-wrap: nowrap;
-            align-items: flex-start;
-            overflow: hidden;
-        }
-
-        .content {
-            flex: 1;
-            min-width: 250px;
-            margin-left: 30px;
-            margin-top: 0;
-        }
-
-        .content p {
-            margin-top: 0;
-            padding-top: 0;
+        div[style*="display: flex;"] {
+            flex-direction: column;
+            align-items: center;
         }
 
         div[style*="flex: 1;"] p {
-            text-align: left;
+            text-align: center;
         }
-
-        .image-crop {
-            margin-left: 20px;
-        }
-
-
-        @media (max-width: 768px) {
-            .image-crop {
-                margin-left: 0;
-                margin-top: 20px;
-                width: 100%;
-            }
-
-            div[style*="display: flex;"] {
-                flex-direction: column;
-                align-items: center;
-            }
-
-            div[style*="flex: 1;"] p {
-                text-align: center;
-            }
-        }
-
-        .custom-link {
-            color: #333;
-        }
-
-body,
-h1,
-h2,
-h3,
-p,
-li,
-ol,
-span,
-div,
-a,
-a:hover,
-.journal,
-.custom-link {
-    color: #7a7a7a !important;
-}     
-body,
-.container {
-    background-color: #f7f7f7 !important;
-}
-
-hr {
-    border: 0 !important;
-    border-top: 1px solid #2f2f2f !important;
-    margin: 20px 0 !important;
-}
-    </style>
+    }
+</style>
 </head>
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
