@@ -159,7 +159,7 @@ p, li, span, div {
             </p>
         <p style="margin-top: 20px; font-size: 1.2em; text-align: left;">
             <a href="mailto:dongho.song@jhu.edu">dongho.song@jhu.edu</a><br>
-            <a href="https://www.dropbox.com/scl/fi/r0wle2bnh7bx2izplx4xk/DonghoSong-CV.pdf?rlkey=28imj5uio2qucsrs091umpl4x&st=uyv5rczp&dl=0"
+            <a href="https://www.dropbox.com/scl/fi/8i7ebhjh7vww4cazs1ges/DonghoSong-CV.pdf?rlkey=byrr7z9zukt4fb9fdzfphc52m&st=fvwp7m9h&dl=0"
                target="_blank"
                rel="noopener noreferrer">CV</a>
             &nbsp;|&nbsp;
@@ -201,12 +201,12 @@ p, li, span, div {
 <ol>
     <li>
         <a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=3i6jcp7g&dl=0" target="_blank" rel="noopener noreferrer">Inflation and Real Activity over the Business Cycle</a>, 
-        with Francesco Bianchi and Giovanni Nicolò, 2026, <span class="journal">Review of Economic Studies</span>, forthcoming
+        with Francesco Bianchi and Giovanni Nicolò, <span class="journal">Review of Economic Studies</span>, 2026, forthcoming
     </li>
     <li>
         <a href="https://www.dropbox.com/scl/fi/1063p13kd0dw4oxzh99m4/CLS-latest.pdf?rlkey=bu8nrms7qdoggoiwefabdhbse&st=5cd2z5qr&dl=0" target="_blank" rel="noopener noreferrer">The Real Channel for Nominal Bond-Stock Puzzles</a>, 
-        with Mikhail Chernov and Lars Lochstoer, 2026,
-        <span class="journal">Journal of Finance</span>, forthcoming 
+        with Mikhail Chernov and Lars Lochstoer, 
+        <span class="journal">Journal of Finance</span>, 2026, forthcoming 
     </li> 
     <li>
         <a href="https://www.aeaweb.org/articles?id=10.1257/mac.20220312&&from=f" target="_blank" rel="noopener noreferrer">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a>, 
