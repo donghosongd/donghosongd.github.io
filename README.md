@@ -124,9 +124,9 @@ p, li, span, div {
             margin-left: 20px;
         }
 
-        h1 a {
-            color: #2c3e50;
-        }
+h1 a {
+    color: #5f5f5f;
+}
 
         @media (max-width: 768px) {
             .image-crop {
