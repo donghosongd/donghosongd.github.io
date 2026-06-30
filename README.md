@@ -157,7 +157,7 @@
     </div>
 </div>
 
-<h2>Selected Working Papers</h2>
+<h2>Working Papers</h2>
 
 
 
