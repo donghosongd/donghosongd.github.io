@@ -157,7 +157,7 @@
     </div>
 </div>
 
-<h2>Working Papers</h2>
+<h2>Selected Working Papers</h2>
 
 
 
@@ -175,10 +175,6 @@
     <a href="https://geopol-fragmentation-index.com/" target="_blank" rel="noopener noreferrer">Geopolitical Fragmentation Index</a> 
     <br>- <span class="journal">Review of Economic Studies</span>, R&R
 </li>     
-    <li>
-        <a href="https://www.dropbox.com/scl/fi/6viaoh5c6by29tiqslpl3/DGS_draft_latest_RWP.pdf?rlkey=qjfe1djr28i76rahl9eujhohl&st=bh45y0d0&dl=0" target="_blank" rel="noopener noreferrer">Leaning Against the Data: Policymaker Communications under State-based Forward Guidance</a>, 
-        with Taeyoung Doh and Joseph Gruber, 2022
-    </li>
 </ol>
 
 
