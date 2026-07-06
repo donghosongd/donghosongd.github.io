@@ -158,15 +158,15 @@
             <a href="https://scholar.google.com/citations?user=z9TGeXYAAAAJ&hl=en" target="_blank">Google Scholar</a>
         </p>
     </div>
-<div class="image-crop" style="flex-shrink: 0; max-width: 320px;">
+<div class="image-crop" style="flex-shrink: 0;">
     <img src="dsong_centered.png"
          alt="Dongho Song"
          style="
-             width: 320px;
-             height: auto;
+             width: min(250px, 75vw);
+             height: auto !important;
              max-width: 100%;
-             border-radius: 18px;
-             box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+             border-radius: 14px;
+             box-shadow: 0 8px 20px rgba(0, 0, 0, 0.10);
              display: block;
          ">
 </div>
