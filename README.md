@@ -113,22 +113,14 @@
         display: flex;
         align-items: flex-start;
         justify-content: flex-start;
-        gap: 32px;
-        margin-top: 6px;
-        margin-bottom: 32px;
+        gap: 22px;
+        margin-top: 18px;
+        margin-bottom: 30px;
     }
 
     .top-text {
-        width: 390px;
+        width: 330px;
         flex-shrink: 0;
-    }
-
-    .name-title {
-        font-size: 1.8em;
-        font-weight: 600;
-        color: #111111;
-        margin: 0 0 16px 0;
-        line-height: 1.2;
     }
 
     .affiliation {
@@ -148,16 +140,16 @@
 
     .top-photo {
         flex-shrink: 0;
-        margin-top: 4px;
+        margin-top: 2px;
     }
 
     .top-photo img {
-        width: 155px;
-        height: 195px;
+        width: 140px;
+        height: 175px;
         object-fit: cover;
         object-position: center center;
-        border-radius: 12px;
-        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.10);
+        border-radius: 10px;
+        box-shadow: 0 5px 14px rgba(0, 0, 0, 0.10);
         display: block;
     }
 
@@ -174,7 +166,7 @@
         }
 
         .top-photo img {
-            width: 150px;
+            width: 140px;
             height: auto;
         }
 
@@ -188,8 +180,6 @@
 
 <div class="top-row">
     <div class="top-text">
-        <h1 class="name-title">Dongho Song</h1>
-
         <p class="affiliation">
             Associate Professor of Finance<br>
             Johns Hopkins University<br>
