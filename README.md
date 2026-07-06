@@ -110,17 +110,17 @@
     }
 
     .top-row {
-        display: flex;
-        align-items: flex-start;
-        justify-content: flex-start;
-        gap: 22px;
+        display: grid;
+        grid-template-columns: auto 135px;
+        column-gap: 48px;
+        align-items: start;
+        width: fit-content;
         margin-top: 18px;
-        margin-bottom: 30px;
+        margin-bottom: 34px;
     }
 
     .top-text {
         width: 330px;
-        flex-shrink: 0;
     }
 
     .affiliation {
@@ -134,18 +134,18 @@
 
     .links {
         margin-top: 18px;
+        margin-bottom: 0;
         font-size: 1.2em;
         text-align: left;
     }
 
     .top-photo {
-        flex-shrink: 0;
-        margin-top: 2px;
+        margin-top: 3px;
     }
 
     .top-photo img {
-        width: 140px;
-        height: 175px;
+        width: 135px;
+        height: 170px;
         object-fit: cover;
         object-position: center center;
         border-radius: 10px;
@@ -155,9 +155,12 @@
 
     @media (max-width: 768px) {
         .top-row {
+            display: flex;
             flex-direction: column;
             align-items: flex-start;
             gap: 18px;
+            width: 100%;
+            margin-top: 18px;
             margin-bottom: 30px;
         }
 
@@ -166,7 +169,7 @@
         }
 
         .top-photo img {
-            width: 140px;
+            width: 135px;
             height: auto;
         }
 
