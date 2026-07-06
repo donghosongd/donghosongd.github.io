@@ -113,14 +113,22 @@
         display: flex;
         align-items: flex-start;
         justify-content: flex-start;
-        gap: 55px;
-        margin-top: 18px;
-        margin-bottom: 42px;
+        gap: 32px;
+        margin-top: 6px;
+        margin-bottom: 32px;
     }
 
     .top-text {
-        width: 420px;
+        width: 390px;
         flex-shrink: 0;
+    }
+
+    .name-title {
+        font-size: 1.8em;
+        font-weight: 600;
+        color: #111111;
+        margin: 0 0 16px 0;
+        line-height: 1.2;
     }
 
     .affiliation {
@@ -133,21 +141,23 @@
     }
 
     .links {
-        margin-top: 20px;
+        margin-top: 18px;
         font-size: 1.2em;
         text-align: left;
     }
 
     .top-photo {
         flex-shrink: 0;
+        margin-top: 4px;
     }
 
     .top-photo img {
-        width: 250px;
-        height: auto;
-        max-width: 100%;
-        border-radius: 14px;
-        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.10);
+        width: 155px;
+        height: 195px;
+        object-fit: cover;
+        object-position: center center;
+        border-radius: 12px;
+        box-shadow: 0 6px 16px rgba(0, 0, 0, 0.10);
         display: block;
     }
 
@@ -155,8 +165,8 @@
         .top-row {
             flex-direction: column;
             align-items: flex-start;
-            gap: 22px;
-            margin-bottom: 35px;
+            gap: 18px;
+            margin-bottom: 30px;
         }
 
         .top-text {
@@ -164,7 +174,7 @@
         }
 
         .top-photo img {
-            width: min(250px, 75vw);
+            width: 150px;
             height: auto;
         }
 
@@ -178,6 +188,8 @@
 
 <div class="top-row">
     <div class="top-text">
+        <h1 class="name-title">Dongho Song</h1>
+
         <p class="affiliation">
             Associate Professor of Finance<br>
             Johns Hopkins University<br>
