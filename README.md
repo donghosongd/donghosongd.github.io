@@ -71,11 +71,11 @@
         color: inherit;
     }
 
-.journal {
-    color: #b05a7a;
-    font-weight: inherit;
-    font-style: normal;
-}
+    .journal {
+        color: #b05a7a;
+        font-weight: inherit;
+        font-style: normal;
+    }
 
     section {
         margin-bottom: 40px;
@@ -109,47 +109,82 @@
         padding-top: 0;
     }
 
-    div[style*="flex: 1;"] p {
+    .top-row {
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-start;
+        gap: 55px;
+        margin-top: 18px;
+        margin-bottom: 42px;
+    }
+
+    .top-text {
+        width: 420px;
+        flex-shrink: 0;
+    }
+
+    .affiliation {
+        margin: 0;
+        padding: 0;
+        font-size: 1.2em;
+        text-align: left;
+        color: #4a4a4a;
+        font-weight: 400;
+    }
+
+    .links {
+        margin-top: 20px;
+        font-size: 1.2em;
         text-align: left;
     }
 
-    .image-crop {
-        margin-left: 20px;
+    .top-photo {
+        flex-shrink: 0;
     }
 
-     @media (max-width: 768px) {
-        .image-crop {
-            margin-left: 0;
-            margin-top: 20px;
-            width: 100%;
-        }
+    .top-photo img {
+        width: 250px;
+        height: auto;
+        max-width: 100%;
+        border-radius: 14px;
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.10);
+        display: block;
+    }
 
-        .profile-photo {
-            width: 100%;
-            height: auto;
-            max-width: 360px;
-        }
-
-        div[style*="display: flex;"] {
+    @media (max-width: 768px) {
+        .top-row {
             flex-direction: column;
-            align-items: center;
+            align-items: flex-start;
+            gap: 22px;
+            margin-bottom: 35px;
         }
 
-        div[style*="flex: 1;"] p {
-            text-align: center;
+        .top-text {
+            width: 100%;
+        }
+
+        .top-photo img {
+            width: min(250px, 75vw);
+            height: auto;
+        }
+
+        .affiliation,
+        .links {
+            text-align: left;
         }
     }
 </style>
 </head>
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-    <div style="flex: 1; min-width: 200px;">
-            <p style="margin: 0; padding: 0; font-size: 1.2em; text-align: left; color: #4a4a4a; font-weight: 400;">
-                Associate Professor of Finance<br>
-                Johns Hopkins University<br>
-                Carey Business School<br>
-            </p>
-        <p style="margin-top: 20px; font-size: 1.2em; text-align: left;">
+<div class="top-row">
+    <div class="top-text">
+        <p class="affiliation">
+            Associate Professor of Finance<br>
+            Johns Hopkins University<br>
+            Carey Business School
+        </p>
+
+        <p class="links">
             <a href="mailto:dongho.song@jhu.edu">dongho.song@jhu.edu</a><br>
             <a href="https://www.dropbox.com/scl/fi/8i7ebhjh7vww4cazs1ges/DonghoSong-CV.pdf?rlkey=byrr7z9zukt4fb9fdzfphc52m&st=fvwp7m9h&dl=0"
                target="_blank"
@@ -158,18 +193,10 @@
             <a href="https://scholar.google.com/citations?user=z9TGeXYAAAAJ&hl=en" target="_blank">Google Scholar</a>
         </p>
     </div>
-<div class="image-crop" style="flex-shrink: 0;">
-    <img src="dsong_centered.png"
-         alt="Dongho Song"
-         style="
-             width: min(250px, 75vw);
-             height: auto !important;
-             max-width: 100%;
-             border-radius: 14px;
-             box-shadow: 0 8px 20px rgba(0, 0, 0, 0.10);
-             display: block;
-         ">
-</div>
+
+    <div class="top-photo">
+        <img src="dsong_centered.png" alt="Dongho Song">
+    </div>
 </div>
 
 <h2>Working Papers</h2>
