@@ -111,8 +111,8 @@
 
     .top-row {
         display: grid;
-        grid-template-columns: auto 135px;
-        column-gap: 80px;
+        grid-template-columns: 330px 135px;
+        column-gap: 120px;
         align-items: start;
         width: fit-content;
         margin-top: 18px;
@@ -151,6 +151,13 @@
         border-radius: 10px;
         box-shadow: 0 5px 14px rgba(0, 0, 0, 0.10);
         display: block;
+    }
+
+    @media (max-width: 900px) {
+        .top-row {
+            grid-template-columns: 330px 135px;
+            column-gap: 70px;
+        }
     }
 
     @media (max-width: 768px) {
