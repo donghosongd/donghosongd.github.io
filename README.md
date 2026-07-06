@@ -117,11 +117,17 @@
         margin-left: 20px;
     }
 
-    @media (max-width: 768px) {
+     @media (max-width: 768px) {
         .image-crop {
             margin-left: 0;
             margin-top: 20px;
             width: 100%;
+        }
+
+        .profile-photo {
+            width: 100%;
+            height: auto;
+            max-width: 360px;
         }
 
         div[style*="display: flex;"] {
@@ -153,7 +159,7 @@
         </p>
     </div>
     <div class="image-crop" style="flex-shrink: 0;">
-        <img src="https://raw.githubusercontent.com/donghosongd/donghosongd.github.io/main/dsong.jpg" alt="Dongho Song" style="width: 250px; max-width: 100%; height: auto;">
+        <img src="dsong_centered.png" alt="Dongho Song" class="profile-photo">
     </div>
 </div>
 
