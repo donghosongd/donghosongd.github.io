@@ -112,7 +112,7 @@
     .top-row {
         display: grid;
         grid-template-columns: auto 135px;
-        column-gap: 48px;
+        column-gap: 80px;
         align-items: start;
         width: fit-content;
         margin-top: 18px;
