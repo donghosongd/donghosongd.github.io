@@ -158,9 +158,18 @@
             <a href="https://scholar.google.com/citations?user=z9TGeXYAAAAJ&hl=en" target="_blank">Google Scholar</a>
         </p>
     </div>
-    <div class="image-crop" style="flex-shrink: 0;">
-        <img src="dsong_centered.png" alt="Dongho Song" class="profile-photo">
-    </div>
+<div class="image-crop" style="flex-shrink: 0; max-width: 320px;">
+    <img src="dsong_centered.png"
+         alt="Dongho Song"
+         style="
+             width: 320px;
+             height: auto;
+             max-width: 100%;
+             border-radius: 18px;
+             box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+             display: block;
+         ">
+</div>
 </div>
 
 <h2>Working Papers</h2>
