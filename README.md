@@ -191,14 +191,14 @@
 <div class="top-row">
     <div class="top-text">
         <p class="affiliation">
-            Associate Professor of Finance<br>
+            Professor of Finance<br>
             Johns Hopkins University<br>
             Carey Business School
         </p>
 
         <p class="links">
             <a href="mailto:dongho.song@jhu.edu">dongho.song@jhu.edu</a><br>
-            <a href="https://www.dropbox.com/scl/fi/8i7ebhjh7vww4cazs1ges/DonghoSong-CV.pdf?rlkey=byrr7z9zukt4fb9fdzfphc52m&st=fvwp7m9h&dl=0"
+            <a href="https://www.dropbox.com/scl/fi/ekpmhohy1zu7389stjqcj/DonghoSong-CV.pdf?rlkey=vcfx60rl38l7o3aq68k2ca1al&st=4zlud247&dl=0"
                target="_blank"
                rel="noopener noreferrer">CV</a>
             &nbsp;|&nbsp;
