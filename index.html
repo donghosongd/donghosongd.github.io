@@ -28,13 +28,14 @@ a{color:inherit;text-decoration:none}
 .hero{display:grid;grid-template-columns:1fr auto;gap:48px;align-items:center;padding:72px 0 88px}
 h1{font-weight:650;font-size:28px;line-height:1.2;letter-spacing:-.02em;margin:0 0 12px}
 .role{font-size:20px;color:var(--muted);margin:0 0 32px;line-height:1.5}
+.nw{white-space:nowrap}
 .role strong{color:var(--text);font-weight:500}
 .actions{display:flex;flex-wrap:wrap;gap:10px}
 .btn{display:inline-flex;align-items:center;gap:8px;font-size:14px;font-weight:500;padding:10px 18px;border-radius:999px;
   border:1px solid var(--line);background:var(--surface);transition:.2s;box-shadow:var(--shadow)}
 .btn:hover{transform:translateY(-1px);border-color:var(--faint)}
 .btn svg{width:15px;height:15px}
-.portrait{position:relative;width:240px;aspect-ratio:4/5}
+.portrait{position:relative;width:192px;aspect-ratio:4/5}
 .portrait img{position:relative;z-index:1;width:100%;height:100%;object-fit:cover;border-radius:20px}
 
 /* sections */
@@ -84,7 +85,7 @@ footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}
   .pub .y.same{display:none}
   .wrap{padding:0 16px}
   .hero{grid-template-columns:1fr;gap:32px;padding:40px 0 56px}
-  .portrait{width:160px;order:-1}
+  .portrait{width:128px;order:-1}
   .search input{width:100%}
   .search,.tools{width:100%}
   h2{font-weight:600;font-size:28px;letter-spacing:-.02em;margin:0}
@@ -107,17 +108,16 @@ footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}
   <header class="hero">
     <div class="reveal">
       <h1>Dongho Song</h1>
-      <p class="role"><strong>Professor of Finance</strong><br>Johns Hopkins University, Carey Business School</p>
+      <p class="role"><strong>Professor of Finance</strong><br><span class="nw">Johns Hopkins University,</span> <span class="nw">Carey Business School</span></p>
       <div class="actions">
-        <a class="btn" href="mailto:dongho.song@jhu.edu">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg>
-          dongho.song@jhu.edu</a>
         <a class="btn" href="https://www.dropbox.com/scl/fi/ekpmhohy1zu7389stjqcj/DonghoSong-CV.pdf?rlkey=vcfx60rl38l7o3aq68k2ca1al&st=4zlud247&dl=0" target="_blank" rel="noopener">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h5"/></svg>
           CV</a>
         <a class="btn" href="https://scholar.google.com/citations?user=z9TGeXYAAAAJ&hl=en" target="_blank" rel="noopener">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10 12 5 2 10l10 5 10-5z"/><path d="M6 12v5c3 2 9 2 12 0v-5"/></svg>
-          Google Scholar</a>
+          Google Scholar</a>        <a class="btn" href="mailto:dongho.song@jhu.edu">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg>
+          dongho.song@jhu.edu</a>
       </div>
     </div>
     <div class="portrait reveal"><img src="dsong_centered.png" alt="Portrait of Dongho Song"></div>
