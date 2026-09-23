@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<script>document.documentElement.classList.add("js")</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dongho Song</title>
+<meta name="description" content="Dongho Song, Professor of Finance, Johns Hopkins University Carey Business School.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#fafaf9; --surface:#ffffff; --text:#1c1917; --muted:#6b6560; --faint:#a8a29e;
+  --line:#e7e5e4; --accent:#1d4ed8; --accent-soft:#dbe6fe; --chip:#f5f5f4;
+  --shadow:0 1px 2px rgba(0,0,0,.04),0 8px 24px -12px rgba(0,0,0,.08);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0c0c0e; --surface:#141417; --text:#ededed; --muted:#9a9aa3; --faint:#5f5f68;
+    --line:#26262b; --accent:#8ab4ff; --accent-soft:#1a2540; --chip:#1c1c21;
+    --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px -12px rgba(0,0,0,.6);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0c0c0e; --surface:#141417; --text:#ededed; --muted:#9a9aa3; --faint:#5f5f68;
+  --line:#26262b; --accent:#8ab4ff; --accent-soft:#1a2540; --chip:#1c1c21;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px -12px rgba(0,0,0,.6);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 Inter,system-ui,-apple-system,sans-serif;
+  -webkit-font-smoothing:antialiased;transition:background .3s,color .3s}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:960px;margin:0 auto;padding:0 24px}
+
+/* hero */
+.hero{display:grid;grid-template-columns:1fr auto;gap:48px;align-items:center;padding:72px 0 88px}
+h1{font-weight:650;font-size:clamp(36px,5.5vw,48px);line-height:1.1;letter-spacing:-.035em;margin:0 0 14px}
+.role{font-size:17px;color:var(--muted);margin:0 0 32px;line-height:1.5}
+.role strong{color:var(--text);font-weight:500}
+.actions{display:flex;flex-wrap:wrap;gap:10px}
+.btn{display:inline-flex;align-items:center;gap:8px;font-size:14px;font-weight:500;padding:10px 18px;border-radius:999px;
+  border:1px solid var(--line);background:var(--surface);transition:.2s;box-shadow:var(--shadow)}
+.btn:hover{transform:translateY(-1px);border-color:var(--faint)}
+.btn svg{width:15px;height:15px}
+.portrait{position:relative;width:240px;aspect-ratio:4/5}
+.portrait img{position:relative;z-index:1;width:100%;height:100%;object-fit:cover;border-radius:20px}
+
+/* sections */
+section{padding:56px 0;border-top:1px solid var(--line)}
+.sec-head{display:flex;align-items:baseline;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:28px}
+h2{font-weight:600;font-size:28px;letter-spacing:-.02em;margin:0}
+
+/* tags */
+.tags{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.tag{font-size:13.5px;font-weight:500;padding:4px 10px;border-radius:999px;background:var(--chip);color:var(--muted);display:inline-flex;align-items:center;gap:6px}
+.tag.hot{background:var(--accent-soft);color:var(--accent)}
+.tag.link:hover{color:var(--text)}
+.dot{width:6px;height:6px;border-radius:50%;background:currentColor}
+
+/* publications */
+.tools{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.search{position:relative}
+.search input{font:inherit;font-size:15px;width:220px;padding:8px 14px 8px 34px;border-radius:999px;border:1px solid var(--line);
+  background:var(--surface);color:var(--text);outline:none;transition:.2s}
+.search input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.search svg{position:absolute;left:12px;top:50%;transform:translateY(-50%);width:15px;height:15px;color:var(--faint)}
+.pubs{list-style:none;margin:0;padding:0}
+.pub{display:grid;grid-template-columns:72px 1fr;gap:20px;padding:20px 12px;margin:0 -12px;border-radius:14px;transition:background .2s}
+.pub:hover{background:var(--surface)}
+.pub .y{font-size:15.5px;color:var(--faint);font-variant-numeric:tabular-nums;padding-top:2px}
+.pub .y.same{visibility:hidden}
+.pub h3{font-size:18.5px;font-weight:500;line-height:1.4;margin:0 0 4px;letter-spacing:-.005em}
+.pub h3 a{background:linear-gradient(var(--accent),var(--accent)) 0 100%/0 1px no-repeat;transition:background-size .3s,color .2s}
+.pub h3 a:hover{color:var(--accent);background-size:100% 1px}
+.pub .meta{font-size:15.5px;color:var(--muted)}
+.pub .journal{color:var(--accent);font-weight:500}
+.pub .fwd{font-size:13px;font-weight:500;color:var(--accent);background:var(--accent-soft);padding:2px 8px;border-radius:999px;margin-left:6px;font-style:normal}
+.empty{color:var(--faint);padding:24px 0;display:none}
+
+footer{border-top:1px solid var(--line);padding:32px 0 48px;font-size:13px;color:var(--faint)}
+footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}
+
+/* reveal */
+.js .reveal{opacity:0;transform:translateY(12px);transition:opacity .7s ease,transform .7s ease}
+.js .reveal.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.js .reveal{opacity:1;transform:none;transition:none}html{scroll-behavior:auto}}
+
+@media (max-width:760px){
+  .pub{grid-template-columns:1fr;gap:4px}
+  .pub h3{font-size:17.5px}
+  .pub .meta{font-size:15px}
+  h2{font-size:25px}
+  .pub .y.same{display:none}
+  .wrap{padding:0 16px}
+  .hero{grid-template-columns:1fr;gap:32px;padding:40px 0 56px}
+  .portrait{width:160px;order:-1}
+  .pub{grid-template-columns:1fr;gap:4px}
+  .pub h3{font-size:17.5px}
+  .pub .meta{font-size:15px}
+  h2{font-size:25px}
+    .search input{width:100%}
+  .search,.tools{width:100%}
+  h2{font-weight:600;font-size:28px;letter-spacing:-.02em;margin:0}
+}
+</style>
+<!-- Default Statcounter code for Dong webpage http://donghosong.com -->
+<script type="text/javascript">
+  var sc_project = 13047391;
+  var sc_invisible = 1;
+  var sc_security = "344fc969";
+</script>
+<script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>
+<!-- End of Statcounter Code -->
+</head>
+<body>
+<noscript><div class="statcounter"><a title="Web Analytics" href="https://statcounter.com/" target="_blank"><img class="statcounter" src="https://c.statcounter.com/13047391/0/344fc969/1/" alt="Web Analytics"></a></div></noscript>
+
+
+<main class="wrap">
+  <header class="hero">
+    <div class="reveal">
+      <h1>Dongho Song</h1>
+      <p class="role"><strong>Professor of Finance</strong><br>Johns Hopkins University, Carey Business School</p>
+      <div class="actions">
+        <a class="btn" href="mailto:dongho.song@jhu.edu">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg>
+          dongho.song@jhu.edu</a>
+        <a class="btn" href="https://www.dropbox.com/scl/fi/ekpmhohy1zu7389stjqcj/DonghoSong-CV.pdf?rlkey=vcfx60rl38l7o3aq68k2ca1al&st=4zlud247&dl=0" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6M8 13h8M8 17h5"/></svg>
+          CV</a>
+        <a class="btn" href="https://scholar.google.com/citations?user=z9TGeXYAAAAJ&hl=en" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10 12 5 2 10l10 5 10-5z"/><path d="M6 12v5c3 2 9 2 12 0v-5"/></svg>
+          Google Scholar</a>
+      </div>
+    </div>
+    <div class="portrait reveal"><img src="dsong_centered.png" alt="Portrait of Dongho Song"></div>
+  </header>
+
+  <section id="working-papers">
+    <div class="sec-head reveal"><h2>Working Papers</h2></div>
+    <ul class="pubs">
+      <li class="pub"><span class="y">2026</span><div><h3><a href="https://www.dropbox.com/scl/fi/bsnmm8ouft2tk2bnkl1oo/How_Globalization.pdf?rlkey=34bub78pz8o1p4kkpaa731g39&st=66vxzyjd&dl=0" target="_blank" rel="noopener">How Globalization Unravels: A Ricardian Model of Endogenous Trade Policy</a></h3><p class="meta">with Jesús Fernández-Villaverde and Tomohide Mineyama</p></div></li>
+      <li class="pub"><span class="y">2025</span><div><h3><a href="https://www.dropbox.com/scl/fi/f3kpzyux8m299b5vwwfap/Fragmentation.pdf?rlkey=7m1q2lcof1sutuduz5derkeio&st=jl72x0iz&dl=0" target="_blank" rel="noopener">Are We Fragmented Yet? Measuring Geopolitical Fragmentation and Its Causal Effects</a></h3><p class="meta">with Jesús Fernández-Villaverde and Tomohide Mineyama</p>
+        <div class="tags"><span class="tag hot"><span class="dot"></span>R&amp;R, Review of Economic Studies</span><a class="tag link" href="https://geopol-fragmentation-index.com/" target="_blank" rel="noopener">Geopolitical Fragmentation Index ↗</a></div></div></li>
+    </ul>
+  </section>
+
+  <section id="publications">
+    <div class="sec-head reveal">
+      <h2>Publications</h2>
+      <div class="tools">
+        <label class="search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="q" type="search" placeholder="Search papers" aria-label="Search publications">
+        </label>
+      </div>
+    </div>
+
+    <ul class="pubs" id="pubs">
+      <li class="pub" data-j="REStud"><span class="y">2026</span><div><h3><a href="https://www.dropbox.com/scl/fi/ucsqyoeh1x8i8kbfz8de8/BianchiNicoloSong_inflation_bc_Full_paper.pdf?rlkey=p2sftb0qzqvtk6ln18ozxg9b3&st=3i6jcp7g&dl=0" target="_blank" rel="noopener">Inflation and Real Activity over the Business Cycle</a></h3><p class="meta">with Francesco Bianchi and Giovanni Nicolò · <span class="journal">Review of Economic Studies</span><span class="fwd">forthcoming</span></p></div></li>
+      <li class="pub" data-j="JF"><span class="y">2026</span><div><h3><a href="https://www.dropbox.com/scl/fi/1063p13kd0dw4oxzh99m4/CLS-latest.pdf?rlkey=bu8nrms7qdoggoiwefabdhbse&st=5cd2z5qr&dl=0" target="_blank" rel="noopener">The Real Channel for Nominal Bond-Stock Puzzles</a></h3><p class="meta">with Mikhail Chernov and Lars Lochstoer · <span class="journal">Journal of Finance</span><span class="fwd">forthcoming</span></p></div></li>
+      <li class="pub" data-j="AEJ: Macro"><span class="y">2026</span><div><h3><a href="https://www.aeaweb.org/articles?id=10.1257/mac.20220312&&from=f" target="_blank" rel="noopener">Deciphering Federal Reserve Communication via Text Analysis of Alternative FOMC Statements</a></h3><p class="meta">with Taeyoung Doh and Shu-Kuei Yang · <span class="journal">American Economic Journal: Macroeconomics</span></p></div></li>
+      <li class="pub" data-j="J. Econometrics"><span class="y">2026</span><div><h3><a href="https://www.sciencedirect.com/science/article/pii/S0304407626000138?dgcid=coauthor" target="_blank" rel="noopener">The Comovement of Voter Preferences: Insights from U.S. Presidential Election Prediction Markets Beyond Polls</a></h3><p class="meta">with Mikhail Chernov and Vadim Elenev · <span class="journal">Journal of Econometrics</span></p></div></li>
+      <li class="pub" data-j="JF"><span class="y">2024</span><div><h3><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13336" target="_blank" rel="noopener">The Term Structure of Covered Interest Rate Parity Violations</a></h3><p class="meta">with Patrick Augustin, Mikhail Chernov, Lukas Schmid · <span class="journal">Journal of Finance</span></p></div></li>
+      <li class="pub" data-j="JFE"><span class="y">2024</span><div><h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X24000138" target="_blank" rel="noopener">Fearing the Fed: How Wall Street Reads Main Street</a></h3><p class="meta">with Vadim Elenev, Tzuo Law, and Amir Yaron · <span class="journal">Journal of Financial Economics</span></p></div></li>
+      <li class="pub" data-j="IJCB"><span class="y">2024</span><div><h3><a href="https://www.ijcb.org/journal/ijcb24q4a5.pdf" target="_blank" rel="noopener">Real-Time Forecasting with a (Standard) Mixed-Frequency VAR During a Pandemic</a></h3><p class="meta">with Frank Schorfheide · <span class="journal">International Journal of Central Banking</span></p></div></li>
+      <li class="pub" data-j="JEDC"><span class="y">2023</span><div><h3><a href="https://www.sciencedirect.com/science/article/pii/S0165188922002846" target="_blank" rel="noopener">The Long-Term Impact of the COVID-19 Unemployment Shock on Life Expectancy and Mortality Rates</a></h3><p class="meta">with Francesco Bianchi and Giada Bianchi · <span class="journal">Journal of Economic Dynamics and Control</span></p></div></li>
+      <li class="pub" data-j="JBES"><span class="y">2023</span><div><h3><a href="https://www.tandfonline.com/doi/full/10.1080/07350015.2022.2097912?journalCode=ubes20" target="_blank" rel="noopener">News-Driven Uncertainty Fluctuations</a></h3><p class="meta">with Jenny Tang · <span class="journal">Journal of Business and Economic Statistics</span></p></div></li>
+      <li class="pub" data-j="JFE"><span class="y">2021</span><div><h3><a href="https://www.sciencedirect.com/science/article/pii/S0304405X21002361?via%3Dihub" target="_blank" rel="noopener">The Term Structure of Equity Risk Premia</a></h3><p class="meta">with Ravi Bansal, Shane Miller, and Amir Yaron · <span class="journal">Journal of Financial Economics</span></p></div></li>
+      <li class="pub" data-j="JFE"><span class="y">2021</span><div><h3><a href="https://www.sciencedirect.com/science/article/pii/S0304405X20302841" target="_blank" rel="noopener">Benchmark Interest Rates when the Government is Risky</a></h3><p class="meta">with Patrick Augustin, Mikhail Chernov, and Lukas Schmid · <span class="journal">Journal of Financial Economics</span></p></div></li>
+      <li class="pub" data-j="JFE"><span class="y">2020</span><div><h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0304405X19302922?via%3Dihub" target="_blank" rel="noopener">Sovereign Credit Risk and Exchange Rates: Evidence from CDS Quanto Spreads</a></h3><p class="meta">with Patrick Augustin and Mikhail Chernov · <span class="journal">Journal of Financial Economics</span></p></div></li>
+      <li class="pub" data-j="Econometrica"><span class="y">2018</span><div><h3><a href="https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA14308" target="_blank" rel="noopener">Identifying Long-Run Risks: A Bayesian Mixed-Frequency Approach</a></h3><p class="meta">with Frank Schorfheide and Amir Yaron · <span class="journal">Econometrica</span></p></div></li>
+      <li class="pub" data-j="RFS"><span class="y">2017</span><div><h3><a href="https://academic.oup.com/rfs/article/30/8/2761/3788530" target="_blank" rel="noopener">Bond Market Exposures to Macroeconomic and Monetary Policy Risks</a></h3><p class="meta">Single-authored · <span class="journal">Review of Financial Studies</span></p></div></li>
+      <li class="pub" data-j="J. Econometrics"><span class="y">2016</span><div><h3><a href="https://www.sciencedirect.com/science/article/abs/pii/S0304407615002857" target="_blank" rel="noopener">Improving GDP Measurement: A Measurement-Error Perspective</a></h3><p class="meta">with Borağan Aruoba, Francis Diebold, Jeremy Nalewaik, and Frank Schorfheide · <span class="journal">Journal of Econometrics</span></p></div></li>
+      <li class="pub" data-j="JBES"><span class="y">2015</span><div><h3><a href="https://www.tandfonline.com/doi/abs/10.1080/07350015.2014.954707" target="_blank" rel="noopener">Real-time Forecasting with a Mixed-Frequency VAR</a></h3><p class="meta">with Frank Schorfheide · <span class="journal">Journal of Business and Economic Statistics</span></p></div></li>
+    </ul>
+    <p class="empty" id="empty">No publications match.</p>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>© <span id="yr"></span> Dongho Song</span>
+  </div>
+</footer>
+
+<script>
+(function(){
+  document.getElementById('yr').textContent=new Date().getFullYear();
+
+  var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}})},{rootMargin:'0px 0px -40px'});
+  document.querySelectorAll('.reveal').forEach(function(el){io.observe(el)});
+
+  var items=[].slice.call(document.querySelectorAll('#pubs .pub')), q=document.getElementById('q');
+  function apply(){
+    var s=q.value.trim().toLowerCase(), n=0, last=null;
+    items.forEach(function(li){
+      var ok=!s||li.textContent.toLowerCase().indexOf(s)>=0;
+      li.style.display=ok?'':'none';
+      if(ok){n++;var y=li.querySelector('.y');y.classList.toggle('same',y.textContent===last);last=y.textContent;}
+    });
+    document.getElementById('empty').style.display=n?'none':'block';
+  }
+  q.addEventListener('input',apply);apply();
+})();
+</script>
+</body>
+</html>
