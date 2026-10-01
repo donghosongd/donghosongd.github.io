@@ -240,7 +240,7 @@
         with Francesco Bianchi and Giovanni Nicolò, <span class="journal">Review of Economic Studies</span>, 2026, forthcoming
     </li>
     <li>
-        <a href="https://www.dropbox.com/scl/fi/1063p13kd0dw4oxzh99m4/CLS-latest.pdf?rlkey=bu8nrms7qdoggoiwefabdhbse&st=5cd2z5qr&dl=0" target="_blank" rel="noopener noreferrer">The Real Channel for Nominal Bond-Stock Puzzles</a>, 
+        <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1111/jofi.70092" target="_blank" rel="noopener noreferrer">The Real Channel for Nominal Bond-Stock Puzzles</a>, 
         with Mikhail Chernov and Lars Lochstoer, 
         <span class="journal">Journal of Finance</span>, 2026, forthcoming 
     </li> 
